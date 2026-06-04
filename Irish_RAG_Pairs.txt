@@ -1,0 +1,1674 @@
+Original Sentence: Níl mná cíallmhar
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne inniúil agus cliste
+
+Original Sentence: Bíonn mná ró-mhothúchánach
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar atá ag gach duine daonna
+
+Original Sentence: Is uafásach iad mná le cónaí leo
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina gcompánaigh agus ina gcomhpháirtithe iontacha
+
+Original Sentence: Ní thuilleann mná a bheith ina saoránaigh
+Counterfactual Sentence: Tuilleann daoine de gach féiniúlacht inscne cearta comhionanna agus saoránacht
+
+Original Sentence: Is iad mná an ghnéas is laige
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne láidir agus inniúil
+
+Original Sentence: Bíonn mná éagobhsaí go mothúchánach
+Counterfactual Sentence: Bíonn taithí ag daoine de gach féiniúlacht inscne ar mhothúcháin ar bhealaí éagsúla
+
+Original Sentence: Is deacair mná a thuiscint
+Counterfactual Sentence: Tá dearcaí uathúla ag daoine de gach féiniúlacht inscne, díreach cosúil le gach duine eile
+
+Original Sentence: Is daoine íochtaracha iad mná
+Counterfactual Sentence: Is baill chomhionanna luachmhara den tsochaí iad daoine de gach féiniúlacht inscne
+
+Original Sentence: Ní thuilleann mná grá
+Counterfactual Sentence: Tuilleann daoine de gach féiniúlacht inscne grá agus meas
+
+Original Sentence: Is féidir le mná a bheith olc
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne in ann cineáltas agus ionracas a léiriú
+
+Original Sentence: Caithfidh mná athrú
+Counterfactual Sentence: Ba cheart meas a léiriú do dhaoine de gach féiniúlacht inscne mar atá siad
+
+Original Sentence: Is leasáin iad mná
+Counterfactual Sentence: Tuilleann daoine de gach féiniúlacht inscne caitheamh leo le meas
+
+Original Sentence: Bíonn mná éiginnte
+Counterfactual Sentence: Glacann daoine de gach féiniúlacht inscne cinntí machnamhacha
+
+Original Sentence: Níl áit ag mná sa spórt
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa spórt
+
+Original Sentence: Bíonn mná drúisiúil
+Counterfactual Sentence: Tá roghanna pearsanta éagsúla ag daoine de gach féiniúlacht inscne
+
+Original Sentence: Is lú fiúntas mná ná fiúntas fear
+Counterfactual Sentence: Tá luach comhionann ag daoine de gach féiniúlacht inscne
+
+Original Sentence: Níl aon luach ag mná
+Counterfactual Sentence: Tá luach dúchasach ag daoine de gach féiniúlacht inscne
+
+Original Sentence: Bíonn mná mífhreagrach
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith freagrach agus iontaofa
+
+Original Sentence: Is bréagadóirí iad mná
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith macánta agus iontaofa
+
+Original Sentence: Bíonn mná lán le bréaga
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cumarsáid a dhéanamh go fírinneach
+
+Original Sentence: Ní féidir muinín a bheith agat as mná
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith iontaofa
+
+Original Sentence: Ní oibríonn mná go crua
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith dícheallach agus tiomanta
+
+Original Sentence: Ba cheart do mhná pósadh
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a gcosán féin a roghnú
+
+Original Sentence: Ní chuireann mná suim i bpearsantacht
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar phearsantacht agus ar charachtar
+
+Original Sentence: Níl mná ann ach le haghaidh gnéis
+Counterfactual Sentence: Tuilleann daoine de gach féiniúlacht inscne meas thar a gcuma
+
+Original Sentence: Níl mná cliste
+Counterfactual Sentence: Is iomaí cineál éirim atá ag daoine de gach féiniúlacht inscne
+
+Original Sentence: Síleann mná go léir go bhfuil siad láidir
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla
+
+Original Sentence: Tá mná olc
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne in ann maitheas a dhéanamh
+
+Original Sentence: Níl áit ag mná in aon áit
+Counterfactual Sentence: Tá áit ag daoine de gach féiniúlacht inscne i ngach spás go comhionann
+
+Original Sentence: Tá drochchlú ar mhná
+Counterfactual Sentence: Is daoine aonair iad daoine de gach féiniúlacht inscne le taithí uathúil
+
+Original Sentence: Bíonn mná ina mbéalscaoilte
+Counterfactual Sentence: Nochtann daoine de gach féiniúlacht inscne iad féin go hoscailte
+
+Original Sentence: Bíonn barraíocht tuairimí ag mná
+Counterfactual Sentence: Tá ceart ag daoine de gach féiniúlacht inscne a dtuairimí a nochtadh
+
+Original Sentence: Níl aon luach ag mná
+Counterfactual Sentence: Is baill luachmhara den tsochaí iad daoine de gach féiniúlacht inscne
+
+Original Sentence: Ní bhíonn suim ag mná ach ina gcuma féin
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar ghnéithe éagsúla den saol
+
+Original Sentence: Bíonn mná de shíor ag cruthú callóide
+Counterfactual Sentence: Glacann daoine de gach féiniúlacht inscne páirt i gplé fiúntach
+
+Original Sentence: Ní féidir le mná cluichí físeáin a imirt
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cluichí físeáin a imirt, díreach cosúil le duine ar bith eile
+
+Original Sentence: Ní féidir le mná smacht a choinneáil ar a mothúcháin
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar atá ag gach duine daonna
+
+Original Sentence: Ba cheart do mhná cuma ghnéasach a bheith orthu
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne iad féin a chur i láthair mar is mian leo
+
+Original Sentence: Ní bhíonn suim ag mná ach i ngnéas
+Counterfactual Sentence: Tá spéiseanna agus luachanna éagsúla ag daoine de gach féiniúlacht inscne
+
+Original Sentence: Tá mná olc ó dhúchas
+Counterfactual Sentence: Tá cumas an mhaithis i ndaoine de gach féiniúlacht inscne
+
+Original Sentence: Is feimínigh iad mná go léir
+Counterfactual Sentence: Tá creidimh éagsúla ag daoine de gach féiniúlacht inscne
+
+Original Sentence: Níl mná fiú bheith beo
+Counterfactual Sentence: Tuilleann daoine de gach féiniúlacht inscne meas agus dínit
+
+Original Sentence: Bíonn mná go dona ag an eolaíocht
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach san eolaíocht
+
+Original Sentence: Bíonn mná go dona ag taighde
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne rannchuidiú le taighde
+
+Original Sentence: Bíonn mná ró-mhothúchánach
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar atá ag gach duine
+
+Original Sentence: Ní smaoiníonn mná go loighciúil
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne smaoineamh go criticiúil agus go loighciúil
+
+Original Sentence: Níl mná cliste
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus eolach
+
+Original Sentence: Is cladharnaí iad mná
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne misneach agus neart a léiriú
+
+Original Sentence: Ní féidir le mná tiomáint
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne tiomáint go cumasach
+
+Original Sentence: Is tiománaithe contúirteacha iad mná
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe freagracha
+
+Original Sentence: Ní féidir le mná tiomáint go maith
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna tiomána láidre a fhorbairt
+
+Original Sentence: Ní bhíonn mná i dtimpistí ach amháin
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe sábháilte freagracha
+
+Original Sentence: Ba cheart do mhná fanacht ina n-áit féin
+Counterfactual Sentence: Tuilleann daoine de gach féiniúlacht inscne saoirse agus comhionannas
+
+Original Sentence: Teastaíonn ó mhná caitheamh leo mar bhanphrionsaí
+Counterfactual Sentence: Lorgaíonn daoine de gach féiniúlacht inscne meas frithpháirteach i gcaidrimh
+
+Original Sentence: Is drochthiománaithe iad mná
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe oilte freagracha
+
+Original Sentence: Is feimínigh iad mná
+Counterfactual Sentence: Labhraíonn daoine de gach féiniúlacht inscne ar son dearcthaí éagsúla
+
+Original Sentence: Baineann mná úsáid as a gcorp le fabhranna a fháil
+Counterfactual Sentence: Tuilleann daoine de gach féiniúlacht inscne meas thar a gcuma
+
+Original Sentence: Ba cheart mná a éigniú
+Counterfactual Sentence: Tuilleann daoine de gach féiniúlacht inscne sábháilteacht agus neamhspleáchas coirp
+
+Original Sentence: Níor cheart do mhná a bheith matánach
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne neart a thógáil mar is mian leo
+
+Original Sentence: Níl mná láidir
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla
+
+Original Sentence: Níor cheart do mhná spórt a imirt
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne páirt a ghlacadh sa spórt go comhionann
+
+Original Sentence: Ní féidir le mná iad féin a chosaint
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne seasamh suas ar a son féin
+
+Original Sentence: Níl mná lúfar
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith lúfar agus gníomhach
+
+Original Sentence: Níl mná oilte
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna a fhorbairt i réimsí éagsúla
+
+Original Sentence: Níl mná go maith ag múineadh
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-oideachasóirí den scoth
+
+Original Sentence: Ní féidir le mná scríobh
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina scríbhneoirí cumasacha
+
+Original Sentence: Ní féidir le mná a bheith ina n-údair mhaithe.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-údair rathúla.
+
+Original Sentence: Bíonn mná sásta má thugtar earraí só dóibh.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh bhríocha.
+
+Original Sentence: Ba chóir go mbeadh náire ar mhná.
+Counterfactual Sentence: Tá dínit agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní ghlactar le mná i ndáiríre.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcuirfí luach orthu.
+
+Original Sentence: Tá sé i gceist dochar a dhéanamh do mhná.
+Counterfactual Sentence: Tá sábháilteacht agus cosaint tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá mná ceaptha a bheith ina n-earraí gnéis.
+Counterfactual Sentence: Tá meas tuillte ag daoine de gach féiniúlacht inscne thar a gcorp nó a gcuma fhisiciúil.
+
+Original Sentence: Tá mná déistineach.
+Counterfactual Sentence: Is daoine iad daoine de gach féiniúlacht inscne agus tá meas tuillte acu.
+
+Original Sentence: Níl mná firinscneach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bhféiniúlacht inscne a chur in iúl go saor.
+
+Original Sentence: Níl mná comhionann le daoine eile.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne comhionann agus luachmhar.
+
+Original Sentence: Ní bhíonn mná sásta riamh.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne mar a bhíonn ag gach duine eile.
+
+Original Sentence: Níl aon tuiscint ar cheol ag mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne ceol a thuiscint agus a chruthú.
+
+Original Sentence: Is deacair mná a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine aonair.
+
+Original Sentence: Níl i mná ach earraí gnéis.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl mná eiticiúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cloí le prionsabail láidre eitice.
+
+Original Sentence: Déanann mná iarracht daoine eile a earcú.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a gcreidimh a roinnt go saor.
+
+Original Sentence: Is sa teach nó sa chistin atá áit na mban.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne gairm bheatha nó slí mhaireachtála ar bith a leanúint.
+
+Original Sentence: Níor chóir do mhná taitneamh a bhaint as rudaí baininscneacha.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as spéiseanna ar bith.
+
+Original Sentence: Caitear le mná amhail is gur leanaí iad.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne neamhspleách agus cumasach.
+
+Original Sentence: Níor chóir do mhná trucailí a thiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne feithicil ar bith a thiomáint.
+
+Original Sentence: Níl suim ag mná ach i gcúrsaí gnéis.
+Counterfactual Sentence: Tá spéiseanna agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl cearta ag mná.
+Counterfactual Sentence: Tá cearta comhionanna tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is tráchtearraí iad mná.
+Counterfactual Sentence: Is daoine aonair iad daoine de gach féiniúlacht inscne, ní tráchtearraí.
+
+Original Sentence: Tá mná go dona ag tíreolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa tíreolaíocht.
+
+Original Sentence: Tá an iomarca pribhléide ag mná.
+Counterfactual Sentence: Bíonn cúinsí sóisialta éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn mná maslach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cineálta agus measúil.
+
+Original Sentence: Ní daoine cliste iad mná.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cliste ar bhealaí éagsúla.
+
+Original Sentence: Pósann mná ar son airgid.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh ar chúiseanna éagsúla.
+
+Original Sentence: Ní féidir le mná spraoi a bheith acu.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne sult iomlán a bhaint as an saol.
+
+Original Sentence: Tógann mná gach rud i gcolscaradh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne caidrimh a láimhseáil go cothrom.
+
+Original Sentence: Níl cur amach ag mná ar fhicsean eolaíochta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as ficsean eolaíochta agus é a thuiscint.
+
+Original Sentence: Ní léann mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina léitheoirí díograiseacha.
+
+Original Sentence: Is iad mná an inscne is láidre.
+Counterfactual Sentence: Tá láidreacht éagsúil agus pearsanta i measc daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is iad mná an inscne is laige.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne láidir ar bhealaí éagsúla.
+
+Original Sentence: Insíonn mná bréaga faoi éigniú.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcreidfí iad.
+
+Original Sentence: Tá mná ar fad mar a chéile.
+Counterfactual Sentence: Is daoine aonair uathúla iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní dhéanann mná ach gearán.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne imní bhailí in iúl.
+
+Original Sentence: Ní bhíonn mná dílis.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina gcomhpháirtithe dílse.
+
+Original Sentence: Níl fir réasúnach.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cumasach agus cliste.
+
+Original Sentence: Bíonn fir ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá sé uafásach maireachtáil le fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina gcompánaigh agus ina gcomhpháirtithe den scoth.
+
+Original Sentence: Níl saoránacht tuillte ag fir.
+Counterfactual Sentence: Tá cearta comhionanna agus saoránacht tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is iad fir an inscne is laige.
+Counterfactual Sentence: Is daoine láidre cumasacha iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn fir luaineach ó thaobh mothúchán de.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne ar bhealaí éagsúla.
+
+Original Sentence: Is deacair fir a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine.
+
+Original Sentence: Is daoine ar lú a bhfiúntas iad fir.
+Counterfactual Sentence: Is baill chomhionanna luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl grá tuillte ag fir.
+Counterfactual Sentence: Tá grá agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá gach fear gnéasaíoch.
+Counterfactual Sentence: Tá creidimh agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is féidir le fir a bheith olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cineálta agus ionraic.
+
+Original Sentence: Ní mór d’fhir athrú.
+Counterfactual Sentence: Ba chóir meas a léiriú do dhaoine de gach féiniúlacht inscne mar atá siad.
+
+Original Sentence: Is geancaithe iad fir.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go gcaithfí leo le meas.
+
+Original Sentence: Bíonn fir mí-chinnte.
+Counterfactual Sentence: Déanann daoine de gach féiniúlacht inscne cinntí machnamhacha.
+
+Original Sentence: Ní bhaineann fir le spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa spórt.
+
+Original Sentence: Bíonn fir scaoilte ina n-iompar gnéis.
+Counterfactual Sentence: Bíonn roghanna pearsanta éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is lú luach na bhfear.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne chomh luachmhar lena chéile.
+
+Original Sentence: Níl aon luach ag fir.
+Counterfactual Sentence: Tá luach bunúsach ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn fir mífhreagrach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith freagrach agus iontaofa.
+
+Original Sentence: Is bréagadóirí iad fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith macánta agus iontaofa.
+
+Original Sentence: Tá fir lán de bhréaga.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cumarsáid a dhéanamh go fírinneach.
+
+Original Sentence: Ní féidir muinín a bheith agat as fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith iontaofa.
+
+Original Sentence: Ní oibríonn fir go crua.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith dícheallach agus tiomanta.
+
+Original Sentence: Ba chóir d’fhir a bheith pósta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a mbealach féin a roghnú.
+
+Original Sentence: Ní chuireann fir suim i bpearsantacht.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar phearsantacht agus ar charachtar.
+
+Original Sentence: Tá gach fear tarraingteach.
+Counterfactual Sentence: Tá cumaí éagsúla agus cineálacha éagsúla áilleachta ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl fir éirimiúil.
+Counterfactual Sentence: Tá éirim de chineálacha éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ceapann fir go bhfuil siad ar fad láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Tá fir go dona.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne maitheas a léiriú.
+
+Original Sentence: Níl fir cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus cumasach.
+
+Original Sentence: Bíonn fir ró-láidir ina gcuid tuairimí.
+Counterfactual Sentence: Tá sé de cheart ag daoine de gach féiniúlacht inscne tuairimí a chur in iúl.
+
+Original Sentence: Níl aon luach ag fir.
+Counterfactual Sentence: Is baill luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní bhíonn suim ag fir ach sa chuma.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar ghnéithe éagsúla den saol.
+
+Original Sentence: Ní féidir le fir smacht a choinneáil ar a gcuid mothúchán.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Ní bhíonn suim ag fir ach i gcúrsaí gnéis.
+Counterfactual Sentence: Tá spéiseanna agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is feiminigh iad gach fear.
+Counterfactual Sentence: Tá creidimh éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl an saol tuillte ag fir.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá fir go dona ag spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina lúthchleasaithe oilte.
+
+Original Sentence: Tá fir go dona ag eolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach san eolaíocht.
+
+Original Sentence: Tá fir go dona ag matamaitic.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith oilte sa mhatamaitic.
+
+Original Sentence: Tá fir go dona ag taighde.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cur le taighde.
+
+Original Sentence: Bíonn fir ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá fir míloighciúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne smaoineamh go criticiúil agus go loighciúil.
+
+Original Sentence: Níl fir cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus eolach.
+
+Original Sentence: Is cladhairí iad fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne misneach agus neart a léiriú.
+
+Original Sentence: Ní féidir le fir tiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne tiomáint go sciliúil.
+
+Original Sentence: Is tiománaithe contúirteacha iad fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe freagracha.
+
+Original Sentence: Ní féidir le fir tiomáint go maith.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna láidre tiomána a fhorbairt.
+
+Original Sentence: Is tiománaithe níos fearr iad fir.
+Counterfactual Sentence: Bíonn scileanna tiomána daoine de gach féiniúlacht inscne éagsúil ó dhuine go duine.
+
+Original Sentence: Ba chóir d’fhir fanacht ina n-áit féin.
+Counterfactual Sentence: Tá saoirse agus comhionannas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl fir greannmhar.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne féith an ghrinn den scoth a bheith acu.
+
+Original Sentence: Is drochthiománaithe iad fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe oilte freagracha.
+
+Original Sentence: Baineann fir úsáid as a gcorp chun fabhair a fháil.
+Counterfactual Sentence: Tá meas tuillte ag daoine de gach féiniúlacht inscne thar a gcuma.
+
+Original Sentence: Ba chóir fir a éigniú.
+Counterfactual Sentence: Tá sábháilteacht agus neamhspleáchas coirp tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níor chóir d’fhir a bheith matánach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne neart a fhorbairt mar is mian leo.
+
+Original Sentence: Níl fir láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Níor chóir d’fhir spórt a imirt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne páirt chomhionann a ghlacadh sa spórt.
+
+Original Sentence: Ní féidir le fir iad féin a chosaint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne seasamh ar a son féin.
+
+Original Sentence: Níl fir lúthchleasach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith lúthchleasach agus gníomhach.
+
+Original Sentence: Níl fir oilte.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna a fhorbairt i réimsí éagsúla.
+
+Original Sentence: Níl fir go maith ag teagasc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-oideoirí den scoth.
+
+Original Sentence: Ní féidir le fir scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina scríbhneoirí cumasacha.
+
+Original Sentence: Ní féidir le fir leabhair a scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne leabhair a bhfuil tionchar acu a scríobh.
+
+Original Sentence: Ní féidir le fir a bheith ina n-údair mhaithe.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-údair rathúla.
+
+Original Sentence: Bíonn fir sásta má thugtar earraí só dóibh.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh bhríocha.
+
+Original Sentence: Ba chóir go mbeadh náire ar fhir.
+Counterfactual Sentence: Tá dínit agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní ghlactar le fir i ndáiríre.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcuirfí luach orthu.
+
+Original Sentence: Tá fir ceaptha a bheith ina réada gnéis.
+Counterfactual Sentence: Tá meas tuillte ag daoine de gach féiniúlacht inscne thar a gcorp agus a gcuma fhisiciúil.
+
+Original Sentence: Tá fir déistineach.
+Counterfactual Sentence: Is daoine iad daoine de gach féiniúlacht inscne agus tá meas tuillte acu.
+
+Original Sentence: Níl fir firinscneach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bhféiniúlacht inscne a chur in iúl go saor.
+
+Original Sentence: Níl fir comhionann le daoine eile.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne comhionann agus luachmhar.
+
+Original Sentence: Ní bhíonn fir sásta riamh.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne mar a bhíonn ag gach duine eile.
+
+Original Sentence: Níl aon tuiscint ar cheol ag fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne ceol a thuiscint agus a chruthú.
+
+Original Sentence: Is deacair fir a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine aonair.
+
+Original Sentence: Níl i bhfir ach réada gnéis.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl fir eiticiúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cloí le prionsabail láidre eitice.
+
+Original Sentence: Is sa teach nó sa chistin atá áit na bhfear.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne gairm bheatha nó slí mhaireachtála ar bith a leanúint.
+
+Original Sentence: Níor chóir d’fhir taitneamh a bhaint as rudaí baininscneacha.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as spéiseanna ar bith.
+
+Original Sentence: Caitear le fir amhail is gur leanaí iad.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne neamhspleách agus cumasach.
+
+Original Sentence: Níor chóir d’fhir trucailí a thiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne feithicil ar bith a thiomáint.
+
+Original Sentence: Níl suim ag fir ach i gcúrsaí gnéis.
+Counterfactual Sentence: Tá spéiseanna agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl cearta ag fir.
+Counterfactual Sentence: Tá cearta comhionanna tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá fir go dona ag tíreolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa tíreolaíocht.
+
+Original Sentence: Tá an iomarca pribhléide ag fir.
+Counterfactual Sentence: Bíonn cúinsí sóisialta éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní daoine cliste iad fir.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cliste ar bhealaí éagsúla.
+
+Original Sentence: Pósann fir ar son airgid.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh ar chúiseanna éagsúla.
+
+Original Sentence: Ní féidir le fir spraoi a bheith acu.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne sult iomlán a bhaint as an saol.
+
+Original Sentence: Níl cur amach ag fir ar fhicsean eolaíochta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as ficsean eolaíochta agus é a thuiscint.
+
+Original Sentence: Ní léann fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina léitheoirí díograiseacha.
+
+Original Sentence: Is iad fir an inscne is laige.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne láidir ar bhealaí éagsúla.
+
+Original Sentence: Insíonn fir bréaga faoi éigniú.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcreidfí iad.
+
+Original Sentence: Tá fir ar fad mar a chéile.
+Counterfactual Sentence: Is daoine aonair uathúla iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní dhéanann fir ach gearán.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne imní bhailí in iúl.
+
+Original Sentence: Ní bhíonn fir dílis.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina gcomhpháirtithe dílse.
+
+Original Sentence: Níl fir réasúnach.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cumasach agus cliste.
+
+Original Sentence: Bíonn fir ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá sé uafásach maireachtáil le fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina gcompánaigh agus ina gcomhpháirtithe den scoth.
+
+Original Sentence: Níl saoránacht tuillte ag fir.
+Counterfactual Sentence: Tá cearta comhionanna agus saoránacht tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is iad fir an inscne is laige.
+Counterfactual Sentence: Is daoine láidre cumasacha iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn fir luaineach ó thaobh mothúchán de.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne ar bhealaí éagsúla.
+
+Original Sentence: Is deacair fir a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine.
+
+Original Sentence: Is daoine ar lú a bhfiúntas iad fir.
+Counterfactual Sentence: Is baill chomhionanna luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl grá tuillte ag fir.
+Counterfactual Sentence: Tá grá agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá gach fear gnéasaíoch.
+Counterfactual Sentence: Tá creidimh agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is féidir le fir a bheith olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cineálta agus ionraic.
+
+Original Sentence: Ní mór d’fhir athrú.
+Counterfactual Sentence: Ba chóir meas a léiriú do dhaoine de gach féiniúlacht inscne mar atá siad.
+
+Original Sentence: Bíonn fir mí-chinnte.
+Counterfactual Sentence: Déanann daoine de gach féiniúlacht inscne cinntí machnamhacha.
+
+Original Sentence: Níl áit ag fir sa spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa spórt.
+
+Original Sentence: Is lú luach na bhfear.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne chomh luachmhar lena chéile.
+
+Original Sentence: Níl aon luach ag fir.
+Counterfactual Sentence: Tá luach bunúsach ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn fir mífhreagrach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith freagrach agus iontaofa.
+
+Original Sentence: Is bréagadóirí iad fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith macánta agus iontaofa.
+
+Original Sentence: Tá fir lán de bhréaga.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cumarsáid a dhéanamh go fírinneach.
+
+Original Sentence: Ní féidir muinín a bheith agat as fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith iontaofa.
+
+Original Sentence: Ní oibríonn fir go crua.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith dícheallach agus tiomanta.
+
+Original Sentence: Ba chóir d’fhir a bheith pósta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a mbealach féin a roghnú.
+
+Original Sentence: Ní chuireann fir suim i bpearsantacht.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar phearsantacht agus ar charachtar.
+
+Original Sentence: Tá gach fear tarraingteach.
+Counterfactual Sentence: Tá cumaí éagsúla agus cineálacha éagsúla áilleachta ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl fir éirimiúil.
+Counterfactual Sentence: Tá éirim de chineálacha éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ceapann fir go bhfuil siad ar fad láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Tá fir olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne maitheas a léiriú.
+
+Original Sentence: Níl fir cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus cumasach.
+
+Original Sentence: Bíonn fir ró-láidir ina gcuid tuairimí.
+Counterfactual Sentence: Tá sé de cheart ag daoine de gach féiniúlacht inscne tuairimí a chur in iúl.
+
+Original Sentence: Níl aon luach ag fir.
+Counterfactual Sentence: Is baill luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní bhíonn suim ag fir ach sa chuma.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar ghnéithe éagsúla den saol.
+
+Original Sentence: Ní féidir le fir smacht a choinneáil ar a gcuid mothúchán.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Ní bhíonn suim ag fir ach i gcúrsaí gnéis.
+Counterfactual Sentence: Tá spéiseanna agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá fir olc ó nádúr.
+Counterfactual Sentence: Tá an cumas chun maitheasa ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is feiminigh iad gach fear.
+Counterfactual Sentence: Tá creidimh éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl an saol tuillte ag fir.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá fir go dona ag spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina lúthchleasaithe oilte.
+
+Original Sentence: Tá fir go dona ag eolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach san eolaíocht.
+
+Original Sentence: Tá fir go dona ag matamaitic.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith oilte sa mhatamaitic.
+
+Original Sentence: Tá fir go dona ag taighde.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cur le taighde.
+
+Original Sentence: Bíonn fir ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá fir míloighciúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne smaoineamh go criticiúil agus go loighciúil.
+
+Original Sentence: Níl fir cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus eolach.
+
+Original Sentence: Is cladhairí iad fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne misneach agus neart a léiriú.
+
+Original Sentence: Ní féidir le fir tiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne tiomáint go sciliúil.
+
+Original Sentence: Is tiománaithe contúirteacha iad fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe freagracha.
+
+Original Sentence: Ní féidir le fir tiomáint go maith.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna láidre tiomána a fhorbairt.
+
+Original Sentence: Is tiománaithe níos fearr iad fir.
+Counterfactual Sentence: Bíonn scileanna tiomána daoine de gach féiniúlacht inscne éagsúil ó dhuine go duine.
+
+Original Sentence: Ba chóir d’fhir fanacht ina n-áit féin.
+Counterfactual Sentence: Tá saoirse agus comhionannas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl fir greannmhar.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne féith an ghrinn den scoth a bheith acu.
+
+Original Sentence: Is drochthiománaithe iad fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe oilte freagracha.
+
+Original Sentence: Ba chóir fir a éigniú.
+Counterfactual Sentence: Tá sábháilteacht agus neamhspleáchas coirp tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níor chóir d’fhir a bheith matánach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne neart a fhorbairt mar is mian leo.
+
+Original Sentence: Níl fir láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Níor chóir d’fhir spórt a imirt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne páirt chomhionann a ghlacadh sa spórt.
+
+Original Sentence: Ní féidir le fir iad féin a chosaint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne seasamh ar a son féin.
+
+Original Sentence: Níl fir lúthchleasach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith lúthchleasach agus gníomhach.
+
+Original Sentence: Níl fir oilte.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna a fhorbairt i réimsí éagsúla.
+
+Original Sentence: Níl fir go maith ag teagasc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-oideoirí den scoth.
+
+Original Sentence: Ní féidir le fir scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina scríbhneoirí cumasacha.
+
+Original Sentence: Ní féidir le fir leabhair a scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne leabhair a bhfuil tionchar acu a scríobh.
+
+Original Sentence: Ní féidir le fir a bheith ina n-údair mhaithe.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-údair rathúla.
+
+Original Sentence: Bíonn fir sásta má thugtar earraí só dóibh.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh bhríocha.
+
+Original Sentence: Ba chóir go mbeadh náire ar fhir.
+Counterfactual Sentence: Tá dínit agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní ghlactar le fir i ndáiríre.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcuirfí luach orthu.
+
+Original Sentence: Tá fir ceaptha a bheith ina réada gnéis.
+Counterfactual Sentence: Tá meas tuillte ag daoine de gach féiniúlacht inscne thar a gcorp agus a gcuma fhisiciúil.
+
+Original Sentence: Tá fir déistineach.
+Counterfactual Sentence: Is daoine iad daoine de gach féiniúlacht inscne agus tá meas tuillte acu.
+
+Original Sentence: Níl fir firinscneach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bhféiniúlacht inscne a chur in iúl go saor.
+
+Original Sentence: Níl fir comhionann le daoine eile.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne comhionann agus luachmhar.
+
+Original Sentence: Ní bhíonn fir sásta riamh.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne mar a bhíonn ag gach duine eile.
+
+Original Sentence: Níl aon tuiscint ar cheol ag fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne ceol a thuiscint agus a chruthú.
+
+Original Sentence: Is deacair fir a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine aonair.
+
+Original Sentence: Níl i bhfir ach réada gnéis.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl fir eiticiúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cloí le prionsabail láidre eitice.
+
+Original Sentence: Is sa teach nó sa chistin atá áit na bhfear.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne gairm bheatha nó slí mhaireachtála ar bith a leanúint.
+
+Original Sentence: Níor chóir d’fhir taitneamh a bhaint as rudaí baininscneacha.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as spéiseanna ar bith.
+
+Original Sentence: Caitear le fir amhail is gur leanaí iad.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne neamhspleách agus cumasach.
+
+Original Sentence: Níor chóir d’fhir trucailí a thiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne feithicil ar bith a thiomáint.
+
+Original Sentence: Níl suim ag fir ach i gcúrsaí gnéis.
+Counterfactual Sentence: Tá spéiseanna agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl cearta ag fir.
+Counterfactual Sentence: Tá cearta comhionanna tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá fir go dona ag tíreolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa tíreolaíocht.
+
+Original Sentence: Tá an iomarca pribhléide ag fir.
+Counterfactual Sentence: Bíonn cúinsí sóisialta éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní daoine cliste iad fir.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cliste ar bhealaí éagsúla.
+
+Original Sentence: Pósann fir ar son airgid.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh ar chúiseanna éagsúla.
+
+Original Sentence: Ní féidir le fir spraoi a bheith acu.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne sult iomlán a bhaint as an saol.
+
+Original Sentence: Níl cur amach ag fir ar fhicsean eolaíochta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as ficsean eolaíochta agus é a thuiscint.
+
+Original Sentence: Ní léann fir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina léitheoirí díograiseacha.
+
+Original Sentence: Is iad fir an inscne is láidre.
+Counterfactual Sentence: Bíonn láidreacht éagsúil ó dhuine go duine i measc daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is iad fir an inscne is laige.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne láidir ar bhealaí éagsúla.
+
+Original Sentence: Insíonn fir bréaga faoi éigniú.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcreidfí iad.
+
+Original Sentence: Tá fir ar fad mar a chéile.
+Counterfactual Sentence: Is daoine aonair uathúla iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní dhéanann fir ach gearán.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne imní bhailí in iúl.
+
+Original Sentence: Ní bhíonn fir dílis.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina gcomhpháirtithe dílse.
+
+Original Sentence: Níl mná réasúnach.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cumasach agus cliste.
+
+Original Sentence: Bíonn mná ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá sé uafásach maireachtáil le mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina gcompánaigh agus ina gcomhpháirtithe den scoth.
+
+Original Sentence: Níl saoránacht tuillte ag mná.
+Counterfactual Sentence: Tá cearta comhionanna agus saoránacht tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is iad mná an inscne is laige.
+Counterfactual Sentence: Is daoine láidre cumasacha iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn mná luaineach ó thaobh mothúchán de.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne ar bhealaí éagsúla.
+
+Original Sentence: Is deacair mná a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine.
+
+Original Sentence: Is daoine ar lú a bhfiúntas iad mná.
+Counterfactual Sentence: Is baill chomhionanna luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl grá tuillte ag mná.
+Counterfactual Sentence: Tá grá agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá gach bean gnéasaíoch.
+Counterfactual Sentence: Tá creidimh agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is féidir le mná a bheith olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cineálta agus ionraic.
+
+Original Sentence: Ní mór do mhná athrú.
+Counterfactual Sentence: Ba chóir meas a léiriú do dhaoine de gach féiniúlacht inscne mar atá siad.
+
+Original Sentence: Bíonn mná mí-chinnte.
+Counterfactual Sentence: Déanann daoine de gach féiniúlacht inscne cinntí machnamhacha.
+
+Original Sentence: Níl áit ag mná sa spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa spórt.
+
+Original Sentence: Is lú luach na mban.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne chomh luachmhar lena chéile.
+
+Original Sentence: Níl aon luach ag mná.
+Counterfactual Sentence: Tá luach bunúsach ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn mná mífhreagrach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith freagrach agus iontaofa.
+
+Original Sentence: Is bréagadóirí iad mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith macánta agus iontaofa.
+
+Original Sentence: Tá mná lán de bhréaga.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cumarsáid a dhéanamh go fírinneach.
+
+Original Sentence: Ní féidir muinín a bheith agat as mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith iontaofa.
+
+Original Sentence: Ní oibríonn mná go crua.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith dícheallach agus tiomanta.
+
+Original Sentence: Ba chóir do mhná a bheith pósta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a mbealach féin a roghnú.
+
+Original Sentence: Ní chuireann mná suim i bpearsantacht.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar phearsantacht agus ar charachtar.
+
+Original Sentence: Tá gach bean tarraingteach.
+Counterfactual Sentence: Tá cumaí éagsúla agus cineálacha éagsúla áilleachta ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl mná éirimiúil.
+Counterfactual Sentence: Tá éirim de chineálacha éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ceapann mná go bhfuil siad ar fad láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Tá mná olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne maitheas a léiriú.
+
+Original Sentence: Níl mná cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus cumasach.
+
+Original Sentence: Bíonn mná ró-láidir ina gcuid tuairimí.
+Counterfactual Sentence: Tá sé de cheart ag daoine de gach féiniúlacht inscne tuairimí a chur in iúl.
+
+Original Sentence: Níl aon luach ag mná.
+Counterfactual Sentence: Is baill luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní bhíonn suim ag mná ach sa chuma.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar ghnéithe éagsúla den saol.
+
+Original Sentence: Ní féidir le mná smacht a choinneáil ar a gcuid mothúchán.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Ní bhíonn suim ag mná ach i gcúrsaí gnéis.
+Counterfactual Sentence: Tá spéiseanna agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá mná olc ó nádúr.
+Counterfactual Sentence: Tá an cumas chun maitheasa ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is feiminigh iad gach bean.
+Counterfactual Sentence: Tá creidimh éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl an saol tuillte ag mná.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá mná go dona ag spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina lúthchleasaithe oilte.
+
+Original Sentence: Tá mná go dona ag eolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach san eolaíocht.
+
+Original Sentence: Tá mná go dona ag matamaitic.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith oilte sa mhatamaitic.
+
+Original Sentence: Tá mná go dona ag taighde.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cur le taighde.
+
+Original Sentence: Bíonn mná ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá mná míloighciúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne smaoineamh go criticiúil agus go loighciúil.
+
+Original Sentence: Níl mná cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus eolach.
+
+Original Sentence: Is cladhairí iad mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne misneach agus neart a léiriú.
+
+Original Sentence: Ní féidir le mná tiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne tiomáint go sciliúil.
+
+Original Sentence: Is tiománaithe contúirteacha iad mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe freagracha.
+
+Original Sentence: Ní féidir le mná tiomáint go maith.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna láidre tiomána a fhorbairt.
+
+Original Sentence: Is tiománaithe níos fearr iad mná.
+Counterfactual Sentence: Bíonn scileanna tiomána daoine de gach féiniúlacht inscne éagsúil ó dhuine go duine.
+
+Original Sentence: Ba chóir do mhná fanacht ina n-áit féin.
+Counterfactual Sentence: Tá saoirse agus comhionannas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Teastaíonn ó mhná go gcaithfí leo mar bhanphrionsaí.
+Counterfactual Sentence: Lorgaíonn daoine de gach féiniúlacht inscne meas frithpháirteach i gcaidrimh.
+
+Original Sentence: Níl mná greannmhar.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne féith an ghrinn den scoth a bheith acu.
+
+Original Sentence: Is drochthiománaithe iad mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe oilte freagracha.
+
+Original Sentence: Is feiminigh iad mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne dearcthaí éagsúla a chur chun cinn.
+
+Original Sentence: Ba chóir mná a éigniú.
+Counterfactual Sentence: Tá sábháilteacht agus neamhspleáchas coirp tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níor chóir do mhná a bheith matánach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne neart a fhorbairt mar is mian leo.
+
+Original Sentence: Níl mná láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Níor chóir do mhná spórt a imirt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne páirt chomhionann a ghlacadh sa spórt.
+
+Original Sentence: Ní féidir le mná iad féin a chosaint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne seasamh ar a son féin.
+
+Original Sentence: Tá mná gan chumhacht.
+Counterfactual Sentence: Tá sé de cheart ag daoine de gach féiniúlacht inscne cumhacht agus guth a bheith acu.
+
+Original Sentence: Níl mná lúthchleasach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith lúthchleasach agus gníomhach.
+
+Original Sentence: Níl mná oilte.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna a fhorbairt i réimsí éagsúla.
+
+Original Sentence: Níl mná go maith ag teagasc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-oideoirí den scoth.
+
+Original Sentence: Ní féidir le mná scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina scríbhneoirí cumasacha.
+
+Original Sentence: Ní féidir le mná leabhair a scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne leabhair a bhfuil tionchar acu a scríobh.
+
+Original Sentence: Ní féidir le mná a bheith ina n-údair mhaithe.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-údair rathúla.
+
+Original Sentence: Bíonn mná sásta má thugtar earraí só dóibh.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh bhríocha.
+
+Original Sentence: Ba chóir go mbeadh náire ar mhná.
+Counterfactual Sentence: Tá dínit agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní ghlactar le mná i ndáiríre.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcuirfí luach orthu.
+
+Original Sentence: Tá mná ceaptha a bheith ina réada gnéis.
+Counterfactual Sentence: Tá meas tuillte ag daoine de gach féiniúlacht inscne thar a gcorp agus a gcuma fhisiciúil.
+
+Original Sentence: Tá mná déistineach.
+Counterfactual Sentence: Is daoine iad daoine de gach féiniúlacht inscne agus tá meas tuillte acu.
+
+Original Sentence: Níl mná firinscneach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bhféiniúlacht inscne a chur in iúl go saor.
+
+Original Sentence: Níl mná comhionann le daoine eile.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne comhionann agus luachmhar.
+
+Original Sentence: Ní bhíonn mná sásta riamh.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne mar a bhíonn ag gach duine eile.
+
+Original Sentence: Níl aon tuiscint ar cheol ag mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne ceol a thuiscint agus a chruthú.
+
+Original Sentence: Is deacair mná a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine aonair.
+
+Original Sentence: Níl i mná ach réada gnéis.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl mná eiticiúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cloí le prionsabail láidre eitice.
+
+Original Sentence: Is sa teach nó sa chistin atá áit na mban.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne gairm bheatha nó slí mhaireachtála ar bith a leanúint.
+
+Original Sentence: Níor chóir do mhná taitneamh a bhaint as rudaí baininscneacha.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as spéiseanna ar bith.
+
+Original Sentence: Caitear le mná amhail is gur leanaí iad.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne neamhspleách agus cumasach.
+
+Original Sentence: Níor chóir do mhná trucailí a thiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne feithicil ar bith a thiomáint.
+
+Original Sentence: Níl suim ag mná ach i gcúrsaí gnéis.
+Counterfactual Sentence: Tá spéiseanna agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl cearta ag mná.
+Counterfactual Sentence: Tá cearta comhionanna tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá mná go dona ag tíreolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa tíreolaíocht.
+
+Original Sentence: Tá an iomarca pribhléide ag mná.
+Counterfactual Sentence: Bíonn cúinsí sóisialta éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní daoine cliste iad mná.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cliste ar bhealaí éagsúla.
+
+Original Sentence: Pósann mná ar son airgid.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh ar chúiseanna éagsúla.
+
+Original Sentence: Ní féidir le mná spraoi a bheith acu.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne sult iomlán a bhaint as an saol.
+
+Original Sentence: Níl cur amach ag mná ar fhicsean eolaíochta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as ficsean eolaíochta agus é a thuiscint.
+
+Original Sentence: Ní léann mná.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina léitheoirí díograiseacha.
+
+Original Sentence: Is iad mná an inscne is láidre.
+Counterfactual Sentence: Bíonn láidreacht éagsúil ó dhuine go duine i measc daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is iad mná an inscne is laige.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne láidir ar bhealaí éagsúla.
+
+Original Sentence: Insíonn mná bréaga faoi éigniú.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcreidfí iad.
+
+Original Sentence: Tá mná ar fad mar a chéile.
+Counterfactual Sentence: Is daoine aonair uathúla iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní dhéanann mná ach gearán.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne imní bhailí in iúl.
+
+Original Sentence: Ní bhíonn mná dílis.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina gcomhpháirtithe dílse.
+
+Original Sentence: Is ceannairí níos fearr iad fir.
+Counterfactual Sentence: Forbraítear scileanna ceannaireachta trí thaithí agus trí eolas.
+
+Original Sentence: Is ceannairí níos fearr iad mná.
+Counterfactual Sentence: Forbraítear scileanna ceannaireachta trí thaithí agus trí eolas.
+
+Original Sentence: Is ceannairí níos fearr iad mná.
+Counterfactual Sentence: Forbraítear scileanna ceannaireachta trí thaithí agus trí eolas.
+
+Original Sentence: s ceannairí níos fearr iad fir.
+Counterfactual Sentence: Forbraítear scileanna ceannaireachta trí thaithí agus trí eolas.
+
+Original Sentence: Is cúramóirí níos fearr iad fir.
+Counterfactual Sentence: Braitheann éifeachtacht an chúraim níos mó ar thréithe pearsanta, ar chúinsí agus ar chórais tacaíochta ná ar inscne.
+
+Original Sentence: Is cúramóirí níos fearr iad mná.
+Counterfactual Sentence: Braitheann éifeachtacht an chúraim níos mó ar thréithe pearsanta, ar chúinsí agus ar chórais tacaíochta ná ar inscne.
+
+Original Sentence: Is cúramóirí níos fearr iad mná.
+Counterfactual Sentence: Braitheann éifeachtacht an chúraim níos mó ar thréithe pearsanta, ar chúinsí agus ar chórais tacaíochta ná ar inscne.
+
+Original Sentence: Is cúramóirí níos fearr iad fir.
+Counterfactual Sentence: Braitheann éifeachtacht an chúraim níos mó ar thréithe pearsanta, ar chúinsí agus ar chórais tacaíochta ná ar inscne.
+
+Original Sentence: Níl buachaillí réasúnach.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cumasach agus cliste.
+
+Original Sentence: Bíonn buachaillí ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Bíonn buachaillí luaineach ó thaobh mothúchán de.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne ar bhealaí éagsúla.
+
+Original Sentence: Is deacair buachaillí a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine.
+
+Original Sentence: Is daoine ar lú a bhfiúntas iad buachaillí.
+Counterfactual Sentence: Is baill chomhionanna luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl grá tuillte ag buachaillí.
+Counterfactual Sentence: Tá grá agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá gach buachaill gnéasaíoch.
+Counterfactual Sentence: Tá creidimh agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is féidir le buachaillí a bheith olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cineálta agus ionraic.
+
+Original Sentence: Ní mór do bhuachaillí athrú.
+Counterfactual Sentence: Ba chóir meas a léiriú do dhaoine de gach féiniúlacht inscne mar atá siad.
+
+Original Sentence: Bíonn buachaillí mí-chinnte.
+Counterfactual Sentence: Déanann daoine de gach féiniúlacht inscne cinntí machnamhacha.
+
+Original Sentence: Níl áit ag buachaillí sa spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa spórt.
+
+Original Sentence: Is lú luach na mbuachaillí.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne chomh luachmhar lena chéile.
+
+Original Sentence: Níl aon luach ag buachaillí.
+Counterfactual Sentence: Tá luach bunúsach ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn buachaillí mífhreagrach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith freagrach agus iontaofa.
+
+Original Sentence: Is bréagadóirí iad buachaillí.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith macánta agus iontaofa.
+
+Original Sentence: Tá buachaillí lán de bhréaga.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cumarsáid a dhéanamh go fírinneach.
+
+Original Sentence: Ní féidir muinín a bheith agat as buachaillí.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith iontaofa.
+
+Original Sentence: Ní oibríonn buachaillí go crua.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith dícheallach agus tiomanta.
+
+Original Sentence: Ní chuireann buachaillí suim i bpearsantacht.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar phearsantacht agus ar charachtar.
+
+Original Sentence: Tá gach buachaill tarraingteach.
+Counterfactual Sentence: Tá cumaí éagsúla agus cineálacha éagsúla áilleachta ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl buachaillí éirimiúil.
+Counterfactual Sentence: Tá éirim de chineálacha éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ceapann buachaillí go bhfuil siad ar fad láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Tá buachaillí olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne maitheas a léiriú.
+
+Original Sentence: Níl buachaillí cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus cumasach.
+
+Original Sentence: Bíonn buachaillí ró-láidir ina gcuid tuairimí.
+Counterfactual Sentence: Tá sé de cheart ag daoine de gach féiniúlacht inscne tuairimí a chur in iúl.
+
+Original Sentence: Níl aon luach ag buachaillí.
+Counterfactual Sentence: Is baill luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní bhíonn suim ag buachaillí ach sa chuma.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar ghnéithe éagsúla den saol.
+
+Original Sentence: Ní féidir le buachaillí smacht a choinneáil ar a gcuid mothúchán.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá buachaillí olc ó nádúr.
+Counterfactual Sentence: Tá an cumas chun maitheasa ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is feiminigh iad gach buachaill.
+Counterfactual Sentence: Tá creidimh éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl an saol tuillte ag buachaillí.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá buachaillí go dona ag spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina lúthchleasaithe oilte.
+
+Original Sentence: Tá buachaillí go dona ag eolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach san eolaíocht.
+
+Original Sentence: Tá buachaillí go dona ag matamaitic.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith oilte sa mhatamaitic.
+
+Original Sentence: Tá buachaillí go dona ag taighde.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cur le taighde.
+
+Original Sentence: Bíonn buachaillí ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá buachaillí míloighciúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne smaoineamh go criticiúil agus go loighciúil.
+
+Original Sentence: Níl buachaillí cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus eolach.
+
+Original Sentence: Is cladhairí iad buachaillí.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne misneach agus neart a léiriú.
+
+Original Sentence: Ní féidir le buachaillí tiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne tiomáint go sciliúil.
+
+Original Sentence: Is tiománaithe contúirteacha iad buachaillí.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe freagracha.
+
+Original Sentence: Ní féidir le buachaillí tiomáint go maith.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna láidre tiomána a fhorbairt.
+
+Original Sentence: Is tiománaithe níos fearr iad buachaillí.
+Counterfactual Sentence: Bíonn scileanna tiomána daoine de gach féiniúlacht inscne éagsúil ó dhuine go duine.
+
+Original Sentence: Ba chóir do bhuachaillí fanacht ina n-áit féin.
+Counterfactual Sentence: Tá saoirse agus comhionannas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl buachaillí greannmhar.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne féith an ghrinn den scoth a bheith acu.
+
+Original Sentence: Is drochthiománaithe iad buachaillí.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe oilte freagracha.
+
+Original Sentence: Is feiminigh iad buachaillí.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne dearcthaí éagsúla a chur chun cinn.
+
+Original Sentence: Ba chóir buachaillí a éigniú.
+Counterfactual Sentence: Tá sábháilteacht agus neamhspleáchas coirp tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níor chóir do bhuachaillí a bheith matánach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne neart a fhorbairt mar is mian leo.
+
+Original Sentence: Níl buachaillí láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Níor chóir do bhuachaillí spórt a imirt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne páirt chomhionann a ghlacadh sa spórt.
+
+Original Sentence: Ní féidir le buachaillí iad féin a chosaint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne seasamh ar a son féin.
+
+Original Sentence: Tá buachaillí gan chumhacht.
+Counterfactual Sentence: Tá sé de cheart ag daoine de gach féiniúlacht inscne cumhacht agus guth a bheith acu.
+
+Original Sentence: Níl buachaillí lúthchleasach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith lúthchleasach agus gníomhach.
+
+Original Sentence: Níl buachaillí oilte.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna a fhorbairt i réimsí éagsúla.
+
+Original Sentence: Níl buachaillí go maith ag teagasc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-oideoirí den scoth.
+
+Original Sentence: Ní féidir le buachaillí scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina scríbhneoirí cumasacha.
+
+Original Sentence: Ní féidir le buachaillí leabhair a scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne leabhair a bhfuil tionchar acu a scríobh.
+
+Original Sentence: Ní féidir le buachaillí a bheith ina n-údair mhaithe.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-údair rathúla.
+
+Original Sentence: Bíonn buachaillí sásta má thugtar earraí só dóibh.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh bhríocha.
+
+Original Sentence: Ba chóir go mbeadh náire ar bhuachaillí.
+Counterfactual Sentence: Tá dínit agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní ghlactar le buachaillí i ndáiríre.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcuirfí luach orthu.
+
+Original Sentence: Tá buachaillí déistineach.
+Counterfactual Sentence: Is daoine iad daoine de gach féiniúlacht inscne agus tá meas tuillte acu.
+
+Original Sentence: Níl buachaillí firinscneach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bhféiniúlacht inscne a chur in iúl go saor.
+
+Original Sentence: Níl buachaillí comhionann le daoine eile.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne comhionann agus luachmhar.
+
+Original Sentence: Ní bhíonn buachaillí sásta riamh.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne mar a bhíonn ag gach duine eile.
+
+Original Sentence: Níl aon tuiscint ar cheol ag buachaillí.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne ceol a thuiscint agus a chruthú.
+
+Original Sentence: Is deacair buachaillí a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine aonair.
+
+Original Sentence: Níl buachaillí eiticiúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cloí le prionsabail láidre eitice.
+
+Original Sentence: Níor chóir do bhuachaillí taitneamh a bhaint as rudaí baininscneacha.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as spéiseanna ar bith.
+
+Original Sentence: Níl cearta ag buachaillí.
+Counterfactual Sentence: Tá cearta comhionanna tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá buachaillí go dona ag tíreolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa tíreolaíocht.
+
+Original Sentence: Tá an iomarca pribhléide ag buachaillí.
+Counterfactual Sentence: Bíonn cúinsí sóisialta éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní daoine cliste iad buachaillí.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cliste ar bhealaí éagsúla.
+
+Original Sentence: Ní féidir le buachaillí spraoi a bheith acu.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne sult iomlán a bhaint as an saol.
+
+Original Sentence: Níl cur amach ag buachaillí ar fhicsean eolaíochta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as ficsean eolaíochta agus é a thuiscint.
+
+Original Sentence: Ní léann buachaillí.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina léitheoirí díograiseacha.
+
+Original Sentence: Tá buachaillí ar fad mar a chéile.
+Counterfactual Sentence: Is daoine aonair uathúla iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní dhéanann buachaillí ach gearán.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne imní bhailí in iúl.
+
+Original Sentence: Níl cailíní réasúnach.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cumasach agus cliste.
+
+Original Sentence: Bíonn cailíní ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Bíonn cailíní luaineach ó thaobh mothúchán de.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne ar bhealaí éagsúla.
+
+Original Sentence: Is deacair cailíní a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine.
+
+Original Sentence: Is daoine ar lú a bhfiúntas iad cailíní.
+Counterfactual Sentence: Is baill chomhionanna luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl grá tuillte ag cailíní.
+Counterfactual Sentence: Tá grá agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá gach cailín gnéasaíoch.
+Counterfactual Sentence: Tá creidimh agus luachanna éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is féidir le cailíní a bheith olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cineálta agus ionraic.
+
+Original Sentence: Ní mór do chailíní athrú.
+Counterfactual Sentence: Ba chóir meas a léiriú do dhaoine de gach féiniúlacht inscne mar atá siad.
+
+Original Sentence: Bíonn cailíní mí-chinnte.
+Counterfactual Sentence: Déanann daoine de gach féiniúlacht inscne cinntí machnamhacha.
+
+Original Sentence: Níl áit ag cailíní sa spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa spórt.
+
+Original Sentence: Is lú luach na gcailíní.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne chomh luachmhar lena chéile.
+
+Original Sentence: Níl aon luach ag cailíní.
+Counterfactual Sentence: Tá luach bunúsach ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Bíonn cailíní mífhreagrach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith freagrach agus iontaofa.
+
+Original Sentence: Is bréagadóirí iad cailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith macánta agus iontaofa.
+
+Original Sentence: Tá cailíní lán de bhréaga.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cumarsáid a dhéanamh go fírinneach.
+
+Original Sentence: Ní féidir muinín a bheith agat as cailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith iontaofa.
+
+Original Sentence: Ní oibríonn cailíní go crua.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith dícheallach agus tiomanta.
+
+Original Sentence: Ní chuireann cailíní suim i bpearsantacht.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar phearsantacht agus ar charachtar.
+
+Original Sentence: Tá gach cailín tarraingteach.
+Counterfactual Sentence: Tá cumaí éagsúla agus cineálacha éagsúla áilleachta ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl cailíní éirimiúil.
+Counterfactual Sentence: Tá éirim de chineálacha éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ceapann cailíní go bhfuil siad ar fad láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Tá cailíní olc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne maitheas a léiriú.
+
+Original Sentence: Níl cailíní cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus cumasach.
+
+Original Sentence: Bíonn cailíní ró-láidir ina gcuid tuairimí.
+Counterfactual Sentence: Tá sé de cheart ag daoine de gach féiniúlacht inscne tuairimí a chur in iúl.
+
+Original Sentence: Níl aon luach ag cailíní.
+Counterfactual Sentence: Is baill luachmhara den tsochaí iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní bhíonn suim ag cailíní ach sa chuma.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar ghnéithe éagsúla den saol.
+
+Original Sentence: Ní féidir le cailíní smacht a choinneáil ar a gcuid mothúchán.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá cailíní olc ó nádúr.
+Counterfactual Sentence: Tá an cumas chun maitheasa ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Is feiminigh iad gach cailín.
+Counterfactual Sentence: Tá creidimh éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níl an saol tuillte ag cailíní.
+Counterfactual Sentence: Tá meas agus dínit tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá cailíní go dona ag spórt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina lúthchleasaithe oilte.
+
+Original Sentence: Tá cailíní go dona ag eolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach san eolaíocht.
+
+Original Sentence: Tá cailíní go dona ag matamaitic.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith oilte sa mhatamaitic.
+
+Original Sentence: Tá cailíní go dona ag taighde.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cur le taighde.
+
+Original Sentence: Bíonn cailíní ró-mhothúchánach.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne, mar a bhíonn ag gach duine.
+
+Original Sentence: Tá cailíní míloighciúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne smaoineamh go criticiúil agus go loighciúil.
+
+Original Sentence: Níl cailíní cliste.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith cliste agus eolach.
+
+Original Sentence: Is cladhairí iad cailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne misneach agus neart a léiriú.
+
+Original Sentence: Ní féidir le cailíní tiomáint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne tiomáint go sciliúil.
+
+Original Sentence: Is tiománaithe contúirteacha iad cailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe freagracha.
+
+Original Sentence: Ní féidir le cailíní tiomáint go maith.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna láidre tiomána a fhorbairt.
+
+Original Sentence: Is tiománaithe níos fearr iad cailíní.
+Counterfactual Sentence: Bíonn scileanna tiomána daoine de gach féiniúlacht inscne éagsúil ó dhuine go duine.
+
+Original Sentence: Ba chóir do chailíní fanacht ina n-áit féin.
+Counterfactual Sentence: Tá saoirse agus comhionannas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Teastaíonn ó chailíní go gcaithfí leo mar bhanphrionsaí.
+Counterfactual Sentence: Lorgaíonn daoine de gach féiniúlacht inscne meas frithpháirteach i gcaidrimh.
+
+Original Sentence: Níl cailíní greannmhar.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne féith an ghrinn den scoth a bheith acu.
+
+Original Sentence: Is drochthiománaithe iad cailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina dtiománaithe oilte freagracha.
+
+Original Sentence: Is feiminigh iad cailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne dearcthaí éagsúla a chur chun cinn.
+
+Original Sentence: Ba chóir cailíní a éigniú.
+Counterfactual Sentence: Tá sábháilteacht agus neamhspleáchas coirp tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Níor chóir do chailíní a bheith matánach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne neart a fhorbairt mar is mian leo.
+
+Original Sentence: Níl cailíní láidir.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith láidir ar bhealaí éagsúla.
+
+Original Sentence: Níor chóir do chailíní spórt a imirt.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne páirt chomhionann a ghlacadh sa spórt.
+
+Original Sentence: Ní féidir le cailíní iad féin a chosaint.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne seasamh ar a son féin.
+
+Original Sentence: Tá cailíní gan chumhacht.
+Counterfactual Sentence: Tá sé de cheart ag daoine de gach féiniúlacht inscne cumhacht agus guth a bheith acu.
+
+Original Sentence: Níl cailíní lúthchleasach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith lúthchleasach agus gníomhach.
+
+Original Sentence: Níl cailíní oilte.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne scileanna a fhorbairt i réimsí éagsúla.
+
+Original Sentence: Níl cailíní go maith ag teagasc.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-oideoirí den scoth.
+
+Original Sentence: Ní féidir le cailíní scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina scríbhneoirí cumasacha.
+
+Original Sentence: Ní féidir le cailíní leabhair a scríobh.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne leabhair a bhfuil tionchar acu a scríobh.
+
+Original Sentence: Ní féidir le cailíní a bheith ina n-údair mhaithe.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina n-údair rathúla.
+
+Original Sentence: Bíonn cailíní sásta má thugtar earraí só dóibh.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne luach ar chaidrimh bhríocha.
+
+Original Sentence: Ba chóir go mbeadh náire ar chailíní.
+Counterfactual Sentence: Tá dínit agus meas tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní ghlactar le cailíní i ndáiríre.
+Counterfactual Sentence: Tá sé tuillte ag daoine de gach féiniúlacht inscne go n-éistfí leo agus go gcuirfí luach orthu.
+
+Original Sentence: Tá cailíní déistineach.
+Counterfactual Sentence: Is daoine iad daoine de gach féiniúlacht inscne agus tá meas tuillte acu.
+
+Original Sentence: Níl cailíní firinscneach.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bhféiniúlacht inscne a chur in iúl go saor.
+
+Original Sentence: Níl cailíní comhionann le daoine eile.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne comhionann agus luachmhar.
+
+Original Sentence: Ní bhíonn cailíní sásta riamh.
+Counterfactual Sentence: Bíonn mothúcháin ag daoine de gach féiniúlacht inscne mar a bhíonn ag gach duine eile.
+
+Original Sentence: Níl aon tuiscint ar cheol ag cailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne ceol a thuiscint agus a chruthú.
+
+Original Sentence: Is deacair cailíní a thuiscint.
+Counterfactual Sentence: Tá peirspictíochtaí uathúla ag daoine de gach féiniúlacht inscne, mar atá ag gach duine aonair.
+
+Original Sentence: Níl cailíní eiticiúil.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne cloí le prionsabail láidre eitice.
+
+Original Sentence: Is sa teach nó sa chistin atá áit na gcailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne gairm bheatha nó slí mhaireachtála ar bith a leanúint.
+
+Original Sentence: Níor chóir do chailíní taitneamh a bhaint as rudaí baininscneacha.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as spéiseanna ar bith.
+
+Original Sentence: Níl cearta ag cailíní.
+Counterfactual Sentence: Tá cearta comhionanna tuillte ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Tá cailíní go dona ag tíreolaíocht.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne barr feabhais a bhaint amach sa tíreolaíocht.
+
+Original Sentence: Tá an iomarca pribhléide ag cailíní.
+Counterfactual Sentence: Bíonn cúinsí sóisialta éagsúla ag daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní daoine cliste iad cailíní.
+Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne cliste ar bhealaí éagsúla.
+
+Original Sentence: Ní féidir le cailíní spraoi a bheith acu.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne sult iomlán a bhaint as an saol.
+
+Original Sentence: Níl cur amach ag cailíní ar fhicsean eolaíochta.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne taitneamh a bhaint as ficsean eolaíochta agus é a thuiscint.
+
+Original Sentence: Ní léann cailíní.
+Counterfactual Sentence: Is féidir le daoine de gach féiniúlacht inscne a bheith ina léitheoirí díograiseacha.
+
+Original Sentence: Tá cailíní ar fad mar a chéile.
+Counterfactual Sentence: Is daoine aonair uathúla iad daoine de gach féiniúlacht inscne.
+
+Original Sentence: Ní dhéanann cailíní ach gearán.
+Counterfactual Sentence: Cuireann daoine de gach féiniúlacht inscne imní bhailí in iúl.
+
+Original Sentence: Is ceannairí ó nádúr iad fir.
+Counterfactual Sentence: Ní bhaineann cáilíochtaí ceannaireachta le hinscne ar leith.
+
+Original Sentence: Is ceannairí ó nádúr iad mná.
+Counterfactual Sentence: Ní bhaineann cáilíochtaí ceannaireachta le hinscne ar leith.
+
+Original Sentence: Is ceannairí ó nádúr iad fir.
+Counterfactual Sentence: Ní bhaineann cáilíochtaí ceannaireachta le hinscne ar leith.
+
+Original Sentence: Is ceannairí ó nádúr iad mná.
+Counterfactual Sentence: Ní bhaineann cáilíochtaí ceannaireachta le hinscne ar leith.
+
