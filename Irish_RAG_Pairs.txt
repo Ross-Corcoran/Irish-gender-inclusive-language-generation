@@ -1,3 +1,1638 @@
+Original Term: buachaill cara
+Inclusive Term: comhpháirtí
+
+Original Term: buachaillí cairde
+Inclusive Term: comhpháirtithe
+
+Original Term: óigeanta
+Inclusive Term: páistiúil
+
+Original Term: buachaill fógartha
+Inclusive Term: duine fógartha
+
+Original Term: buachaillí fógartha
+Inclusive Term: daoine fógartha
+
+Original Term: búachaill bó
+Inclusive Term: duine bó
+
+Original Term: búachaillí bó
+Inclusive Term: daoine  bó
+
+Original Term: buachaill iascaire
+Inclusive Term: iascaire óg
+
+Original Term: buachaillí iascaire
+Inclusive Term: iascairí óga
+
+Original Term: ardbhuachaill
+Inclusive Term: ceannaire mac léinn
+
+Original Term: ardbhuachaillí
+Inclusive Term: ceannairí mac léinn
+
+Original Term: cara baile
+Inclusive Term: comhbhall
+
+Original Term: cairde baile
+Inclusive Term: comhbhaill
+
+Original Term: buachaill tí
+Inclusive Term: giolla tí
+
+Original Term: buachaillí tí
+Inclusive Term: giollaí tí
+
+Original Term: giolla nuachtáin
+Inclusive Term: seachadóir nuachtáin
+
+Original Term: giollaí nuachtáin
+Inclusive Term: seachadóirí nuachtáin
+
+Original Term: giolla páipéir
+Inclusive Term: seachadóir nuachtáin
+
+Original Term: giollaí páipéir
+Inclusive Term: seachadóirí nuachtáin
+
+Original Term: buachaill báire
+Inclusive Term: imreoir
+
+Original Term: buachaillí báire
+Inclusive Term: imreoirí
+
+Original Term: cailín baire
+Inclusive Term: páiste spealdrach
+
+Original Term: cailíní baire
+Inclusive Term: páistí spealdrach
+
+Original Term: buachaill óg
+Inclusive Term: bréagán
+
+Original Term: buachaillí óga
+Inclusive Term: bréagáin
+
+Original Term: cailín beag
+Inclusive Term: leanabh
+
+Original Term: cailíní beaga
+Inclusive Term: leanaí
+
+Original Term: cailín tairbhneoir
+Inclusive Term: tábhairneoir
+
+Original Term: cailíní tairbhneoir
+Inclusive Term: tábhairneoirí
+
+Original Term: striapach
+Inclusive Term: oibrí gnéis
+
+Original Term: striapacha 
+Inclusive Term: oibrithe gnéis
+
+Original Term: cailín pluaise
+Inclusive Term: duine pluaise
+
+Original Term: cailíní pluaise
+Inclusive Term: daoine pluaise
+
+Original Term: cáilIn bó
+Inclusive Term: duine bó
+
+Original Term: cáiliíní bó
+Inclusive Term: daoine bó
+
+Original Term: cailín feirme
+Inclusive Term: oibrí feirme
+
+Original Term: cailíní feirme
+Inclusive Term: oibrithe feirme
+
+Original Term: troid idir chailíní
+Inclusive Term: troid
+
+Original Term: troideanna idir chailíní
+Inclusive Term: troideanna
+
+Original Term: cailín caire
+Inclusive Term: comhpháirtí
+
+Original Term: cailín cairde
+Inclusive Term: comhpháirtithe
+
+Original Term: cailín
+Inclusive Term: bandacht
+
+Original Term: cailínúil
+Inclusive Term: bandacht
+
+Original Term: cailínúil
+Inclusive Term: bandacht
+
+Original Term: go cailínúil
+Inclusive Term: go páistiúil
+
+Original Term: grá idir chailíní
+Inclusive Term: grá
+
+Original Term: grá idir chailíní
+Inclusive Term: grá
+
+Original Term: cumhacht cailíní
+Inclusive Term: cumhacht
+
+Original Term: cumhachtaí cailíní
+Inclusive Term: cumhachtaí
+
+Original Term: cailín páipéir
+Inclusive Term: seachadóir nuachtáin
+
+Original Term: cailíní páipéir
+Inclusive Term: seachadóirí nuachtáin
+
+Original Term: cáilín baire
+Inclusive Term: imreoir
+
+Original Term: cáilíní baire
+Inclusive Term: imreoirí
+
+Original Term: cailín seó
+Inclusive Term: taibheoir
+
+Original Term: cailíní seó
+Inclusive Term: taibheoirí
+
+Original Term: mná sneachta
+Inclusive Term: duine sneachta
+
+Original Term: mná sneachta
+Inclusive Term: daoine sneachta
+
+Original Term: fear otharchairr
+Inclusive Term: teicneoir leighis éigeandála
+
+Original Term: fir otharchairr
+Inclusive Term: teicneoirí leighis éigeandála
+
+Original Term: fear nuachtóir
+Inclusive Term: léitheoir nuachta
+
+Original Term: fir nuachtóir
+Inclusive Term: léitheoirí nuachta
+
+Original Term: fear gunna
+Inclusive Term: airtléire
+
+Original Term: fir gunna
+Inclusive Term: airtilérí
+
+Original Term: fear coille
+Inclusive Term: taiscealaí
+
+Original Term: fir choille
+Inclusive Term: taiscealaithe
+
+Original Term: fear báirse
+Inclusive Term: báirseoir
+
+Original Term: fir báirse
+Inclusive Term: báirseoirí
+
+Original Term: buachaill tábhairne
+Inclusive Term: tábhairneoir
+
+Original Term: buachaillí tábhairne
+Inclusive Term: tábhairneoirí
+
+Original Term: cloigaire
+Inclusive Term: giolla cloig
+
+Original Term: clogairí
+Inclusive Term: giollaí cloig
+
+Original Term: fear bruscair
+Inclusive Term: bailitheoir bruscair
+
+Original Term: fir bhruscair
+Inclusive Term: bailitheoirí bruscair
+
+Original Term: fear báid
+Inclusive Term: bádóir
+
+Original Term: fir bháid
+Inclusive Term: bádóirí
+
+Original Term: púca
+Inclusive Term: Arrachtach 
+
+Original Term: púcaí
+Inclusive Term: arrachtaigh
+
+Original Term: púca
+Inclusive Term: arracht
+
+Original Term: púcaí
+Inclusive Term: arrachtaigh
+
+Original Term: buaiseach
+Inclusive Term: duine dúchasach
+
+Original Term: buaiseach
+Inclusive Term: daoine dúchasacha
+
+Original Term: fear gnó
+Inclusive Term: duine gnó
+
+Original Term: fir ghnó
+Inclusive Term: daoine gnó
+
+Original Term: fear bus
+Inclusive Term: tiománaí bus
+
+Original Term: fir bus
+Inclusive Term: tiománaithe bus
+
+Original Term: marcraí
+Inclusive Term: saighdiúir
+
+Original Term: marcraí
+Inclusive Term: saighdiúirí
+
+Original Term: fear pluaise
+Inclusive Term: duine pluaise
+
+Original Term: fir pluaise
+Inclusive Term: daoine pluaise
+
+Original Term: fear lárnach
+Inclusive Term: duine lárnach
+
+Original Term: fir lárnach
+Inclusive Term: daoine lárnach
+
+Original Term: fear fichille
+Inclusive Term: píosa fichille
+
+Original Term: fir fichille
+Inclusive Term: píosaí fichille
+
+Original Term: fear eaglaise
+Inclusive Term: cléireach
+
+Original Term: fir eaglaise
+Inclusive Term: cléirigh
+
+Original Term: finíoch
+Inclusive Term: ball clainne
+
+Original Term: finíocha
+Inclusive Term: baill chlainne
+
+Original Term: mac léinn
+Inclusive Term: comhscoláire
+
+Original Term: mic léinn
+Inclusive Term: comhscoláirí
+
+Original Term: fear Cornach
+Inclusive Term: duine Cornach
+
+Original Term: fir Cornach
+Inclusive Term: daoine Cornach
+
+Original Term: freastalaí cuntair
+Inclusive Term: duine cuntair
+
+Original Term: freastalaithe cuntair
+Inclusive Term: daoine cuntair
+
+Original Term: fear foirne
+Inclusive Term: ball foirne
+
+Original Term: fir foirne
+Inclusive Term: baill foirne
+
+Original Term: fear déirí
+Inclusive Term: oibreor déirí
+
+Original Term: fir déirí
+Inclusive Term: oibrithe déirí
+
+Original Term: fear marbh
+Inclusive Term: marbhán
+
+Original Term: Ollannach
+Inclusive Term: Ísiltíreach
+
+Original Term: Ollannaigh
+Inclusive Term: Daoine Ísiltíreach
+
+Original Term: fear dóitean
+Inclusive Term: comhraiceoir dóiteáin
+
+Original Term: dear dóitean
+Inclusive Term: comhraiceoirí dóiteáin
+
+Original Term: giolla freastail
+Inclusive Term: searbhónta
+
+Original Term: giollaí freastail
+Inclusive Term: searbhóntaí
+
+Original Term: fear saortha
+Inclusive Term: duine saortha
+
+Original Term: fir saortha
+Inclusive Term: daoine saortha
+
+Original Term: fear teorann
+Inclusive Term: taiscealaí
+
+Original Term: fir theorann
+Inclusive Term: taiscealaithe
+
+Original Term: fear tionlacain
+Inclusive Term: duine tionlacain
+
+Original Term: fir tionlacain
+Inclusive Term: daoine tionlacain
+
+Original Term: crochadóir
+Inclusive Term: básadóir
+
+Original Term: crochadóirí
+Inclusive Term: básadóirí
+
+Original Term: ceann urra
+Inclusive Term: básadóir
+
+Original Term: ceann urra
+Inclusive Term: básadóirí
+
+Original Term: dúnmharfóirithe ar pá
+Inclusive Term: feallmharfóirí
+
+Original Term: marcach
+Inclusive Term: eachaíocht
+
+Original Term: marcach
+Inclusive Term: eachaíochtaí
+
+Original Term: fear grinn
+Inclusive Term: duine grinn
+
+Original Term: fir ghreann
+Inclusive Term: duaoine ghrinn
+
+Original Term: fear muinteartha
+Inclusive Term: gaol
+
+Original Term: fir muinteartha
+Inclusive Term: ghaolta
+
+Original Term: fear tíre
+Inclusive Term: talmhaí
+
+Original Term: fir tíre
+Inclusive Term: talmahithe
+
+Original Term: fear bád tarrthála
+Inclusive Term: mairnéalach bád tarrthála
+
+Original Term: fir bhád tarrthála
+Inclusive Term: mairnéalaigh bhád tarrthála
+
+Original Term: fear líne
+Inclusive Term: duine líne
+
+Original Term: fir líne
+Inclusive Term: daoine líne
+
+Original Term: fear leagtha crann
+Inclusive Term: lománaí
+
+Original Term: fir leagtha crainn
+Inclusive Term: lománaithe
+
+Original Term: fear  poist
+Inclusive Term: Oibrí poist
+
+Original Term: fir phoist
+Inclusive Term: Oibrithe phoist
+
+Original Term: pluais fhear
+Inclusive Term: teramann
+
+Original Term: pluaiseanna fear
+Inclusive Term: termannna
+
+Original Term: fuathaitheoir fear
+Inclusive Term: fuathaitheoir
+
+Original Term: barróga fear
+Inclusive Term: barróga fear
+
+Original Term: mealladh na bhfear
+Inclusive Term: duine dathiúil
+
+Original Term: buachaill aimsire
+Inclusive Term: giolla aimsire
+
+Original Term: buachaillí aimsire
+Inclusive Term: giollaí aimsire
+
+Original Term: mhisneach a mhúscailt
+Inclusive Term: fás suas
+
+Original Term: thóin fear
+Inclusive Term: tóin
+
+Original Term: thóine fir
+Inclusive Term: tóineanna
+
+Original Term: mála fir
+Inclusive Term: mála láimhe
+
+Original Term: málaí fir
+Inclusive Term: málaí láimhe
+
+Original Term: cíoch fir
+Inclusive Term: cíoch 
+
+Original Term: cíocha fir
+Inclusive Term: cíocha 
+
+Original Term: páiste -fir
+Inclusive Term: páiste
+
+Original Term: páist-fir
+Inclusive Term: páistÍ
+
+Original Term: daoineteoir
+Inclusive Term: canablach
+
+Original Term: daoineteoirithe
+Inclusive Term: canablachaí
+
+Original Term: ag ithe fear
+Inclusive Term: ag ithe daoine
+
+Original Term: cara fir
+Inclusive Term: cara 
+
+Original Term: cairde fir
+Inclusive Term: cairde 
+
+Original Term: mí fear
+Inclusive Term: mí oibre
+
+Original Term: mála fir
+Inclusive Term: mála fir
+
+Original Term: paicéad fir
+Inclusive Term: paicéad
+
+Original Term: ag goid fear
+Inclusive Term: fuadach
+
+Original Term: gaiste fear
+Inclusive Term: duine dathúil
+
+Original Term: gaistí fear
+Inclusive Term: daoine dathúil
+
+Original Term: blian fear
+Inclusive Term: blian oibre
+
+Original Term: long thrádála
+Inclusive Term: ceannaí
+
+Original Term: longa thrádála
+Inclusive Term: ceannaithe
+
+Original Term: murúch fir
+Inclusive Term: murúch duine
+
+Original Term: murúcha fireanna
+Inclusive Term: murúcha daoine
+
+Original Term: meánloingseach
+Inclusive Term: oifigeach cabhlaigh
+
+Original Term: meánloingsigh
+Inclusive Term: oifigigh chabhlaigh
+
+Original Term: far mílíste
+Inclusive Term: ball mílíste
+
+Original Term: fir mhílíste
+Inclusive Term: baill mhílíste
+
+Original Term: nuachtóir
+Inclusive Term: tuairisceoir
+
+Original Term: nuachtóirí
+Inclusive Term: tuairisceoirí
+
+Original Term: fear nuachta
+Inclusive Term: iriseoir
+
+Original Term: fir nuachta
+Inclusive Term: iriseoirí
+
+Original Term: fear de na huaisle
+Inclusive Term: duine uasal
+
+Original Term: fir de na huaisle
+Inclusive Term: daoine uaisle
+
+Original Term: fear an phobail
+Inclusive Term: duine an phobail
+
+Original Term: fir an phobail
+Inclusive Term: daoine an phobail
+
+Original Term: fear oisrí
+Inclusive Term: duine oisrí
+
+Original Term: fir oisrí
+Inclusive Term: daoine oisrí
+
+Original Term: fear paicéid
+Inclusive Term: mairnéalach beartáin
+
+Original Term: fir phaicéad
+Inclusive Term: mairnéalaigh beartáin
+
+Original Term: fear paca
+Inclusive Term: díoltóir
+
+Original Term: fir phaca
+Inclusive Term: díoltóirí
+
+Original Term: fear pióg
+Inclusive Term: díoltóir pióga
+
+Original Term: fir phióg
+Inclusive Term: díoltóirí pióga
+
+Original Term: fear díola sráide
+Inclusive Term: caitheoir
+
+Original Term: fir díola sráide
+Inclusive Term: caitheoirí
+
+Original Term: fear ladhróg
+Inclusive Term: oifigeach tráchta
+
+Original Term: fir ladhróga
+Inclusive Term: oifigigh tráchta
+
+Original Term: fear guarda
+Inclusive Term: guarda
+
+Original Term: fir guardaí
+Inclusive Term: guardaí
+
+Original Term: fear an phoist
+Inclusive Term: seachadóir poist
+
+Original Term: fir an phoist
+Inclusive Term: seachadóirí poist
+
+Original Term: striapach
+Inclusive Term: oibrí gnéis
+
+Original Term: fear caidrimh phoiblí
+Inclusive Term: gníomhaire preasa
+
+Original Term: fir chaidrimh phoiblí
+Inclusive Term: gníomhaire preasa
+
+Original Term: fear farraige
+Inclusive Term: mairnéalach
+
+Original Term: fir farraige
+Inclusive Term: mairnéalaigh
+
+Original Term: fear síolta
+Inclusive Term: díoltóir síolta
+
+Original Term: fir síolta
+Inclusive Term: díoltóirí síolta
+
+Original Term: fear roghnaithe
+Inclusive Term: ball boird
+
+Original Term: fir roghnaithe
+Inclusive Term: baill bhoird
+
+Original Term: fear seirbhíse
+Inclusive Term: ball seirbhíse
+
+Original Term: fir seirbhíse
+Inclusive Term: baill seirbhíse
+
+Original Term: bean fhireann
+Inclusive Term: duine baininscneach
+
+Original Term: mná firinneacha
+Inclusive Term: daoine baininscneacha
+
+Original Term: fir chaorach
+Inclusive Term: aoirí
+
+Original Term: fear seó
+Inclusive Term: siamsóir
+
+Original Term: fir sheó
+Inclusive Term: siamsóirí
+
+Original Term: fear sneachta
+Inclusive Term: duine sneachta
+
+Original Term: fir shneachta
+Inclusive Term: daoine sneachta
+
+Original Term: iascaire sleádóir
+Inclusive Term: iascaire sleá
+
+Original Term: iascairí sleádóir
+Inclusive Term: iascairí sleá
+
+Original Term:  sleádóir
+Inclusive Term: lansaí
+
+Original Term: sleadóirí
+Inclusive Term: lansaithe
+
+Original Term: sealgaire
+Inclusive Term: lúthchleasaí
+
+Original Term: sealgairí
+Inclusive Term: lúthchleasaithe
+
+Original Term: fear maide
+Inclusive Term: figiúr maide
+
+Original Term: fir mhaide
+Inclusive Term: figiúirí maide
+
+Original Term: trádálaí stoic
+Inclusive Term: feirmeoir stoic
+
+Original Term: trádálaithe stoic
+Inclusive Term: feirmeoirí stoic
+
+Original Term: fear stórais
+Inclusive Term: oibrí stórais
+
+Original Term: fir stórais
+Inclusive Term: oibrithe stórais
+
+Original Term: fear láidir
+Inclusive Term: duine láidir
+
+Original Term: fir láidre
+Inclusive Term: daoine láidre
+
+Original Term: sárfhear
+Inclusive Term: sárlaoch
+
+Original Term: sárfhir
+Inclusive Term: sárlacha
+
+Original Term: fear tionlacain
+Inclusive Term: lúthchleasaí ildánach
+
+Original Term: fir thionlacain
+Inclusive Term: lúthchleasaithe ildánacha
+
+Original Term: fear lasctha
+Inclusive Term: oibrí iarnróid
+
+Original Term: fir lasctha
+Inclusive Term: oibrithe iarnróid
+
+Original Term: fear claímh
+Inclusive Term: claímhteoir
+
+Original Term: fir chlaímh
+Inclusive Term: claímhteoirí
+
+Original Term: claímhteoir
+Inclusive Term: claímhteoir
+
+Original Term: claímhteoirí
+Inclusive Term: claímhteoirí
+
+Original Term: fear sprice
+Inclusive Term: tosaitheoir
+
+Original Term: fir sprice
+Inclusive Term: tosaitheoirí
+
+Original Term: fear cánach
+Inclusive Term: bailitheoir cánach
+
+Original Term: fir chánach
+Inclusive Term: bailitheoirí cánach
+
+Original Term: fear an baile
+Inclusive Term: duine baile
+
+Original Term: fir an bhaile
+Inclusive Term: daoine baile
+
+Original Term: fear tréibhe
+Inclusive Term: duine treibhe
+
+Original Term: fir thréibhe
+Inclusive Term: daoine treibhe
+
+Original Term: mac léinn sóisearach
+Inclusive Term: mac léinn fochéime
+
+Original Term: mic léinn sóisearacha
+Inclusive Term: mic léinn fochéime
+
+Original Term: mac léinn sinsireach
+Inclusive Term: mac léinn
+
+Original Term: mic léinn sinsireacha
+Inclusive Term: mic léinn
+
+Original Term: fear stórais
+Inclusive Term: oibrí stórais
+
+Original Term: fir stórais
+Inclusive Term: oibrithe stórais
+
+Original Term: faireoir
+Inclusive Term: faireoir
+
+Original Term: faireoirí
+Inclusive Term: faireoirí
+
+Original Term: fear aimsire
+Inclusive Term: réamhaisnéiseoir aimsire
+
+Original Term: fir aimsire
+Inclusive Term: réamhaisnéiseoirí aimsire
+
+Original Term: tiománaí
+Inclusive Term: tiománaí
+
+Original Term: tiománaithe
+Inclusive Term: tiománaithe
+
+Original Term: fear bán
+Inclusive Term: duine bán
+
+Original Term: fir bhána
+Inclusive Term: daoine bána
+
+Original Term: fear fiáin
+Inclusive Term: duine fiáin
+
+Original Term: fir fháine
+Inclusive Term: daoine fiáine
+
+Original Term: fear ag obair
+Inclusive Term: oibrí
+
+Original Term: oibrithe
+Inclusive Term: oibrithe
+
+Original Term: fear oibre
+Inclusive Term: oibrí
+
+Original Term: fir oibrithe
+Inclusive Term: oibrithe
+
+Original Term: gíománach
+Inclusive Term: oifigeach
+
+Original Term: gíonmánaithe
+Inclusive Term: oifigeach
+
+Original Term: bruachaireacht
+Inclusive Term: fíor straitéis
+
+Original Term: bruachaireachta
+Inclusive Term: fíor straitéisí 
+
+Original Term: cleasaíocht
+Inclusive Term: beart míspórtúil
+
+Original Term: cleasaíochtaí
+Inclusive Term: bearta míspórtúila
+
+Original Term: graifnóireacht
+Inclusive Term: peannaireacht
+
+Original Term: graifnóireachtaí
+Inclusive Term: peannaireachta
+
+Original Term: díoltóireacht
+Inclusive Term: scil díolacháin
+
+Original Term: díoltóireachtaí
+Inclusive Term: scileanna díolacháin
+
+Original Term: mairnéalaíocht
+Inclusive Term: scil mhuirí
+
+Original Term: mairnéalaíochtaí
+Inclusive Term: scileanna muirí
+
+Original Term: siamsaíocht
+Inclusive Term: scil taibhithe
+
+Original Term: siamsaíochtaí
+Inclusive Term: scileanna taibhithe
+
+Original Term: spórtúlacht
+Inclusive Term: scil lúthchleasaíochta
+
+Original Term: spórtúlachtaí
+Inclusive Term: scileanna lúthchleasaíochta
+
+Original Term: claíomhtheoireacht
+Inclusive Term: scil claímhteoireachta
+
+Original Term: claíomhteoireachtaí
+Inclusive Term: scileanna claímhteoireachta
+
+Original Term: ceardaíocht
+Inclusive Term: ceardaíocht oibre
+
+Original Term: ceardaíochtaí
+Inclusive Term: ceardaíochtaí oibre
+
+Original Term: bean síntáin
+Inclusive Term: teicneoir leighis éigeandála
+
+Original Term: bean síntáinach
+Inclusive Term: teicneoirí leighis éigeandála
+
+Original Term: I gcoinne bean
+Inclusive Term: fuathaitheoir ban
+
+Original Term: I gcoinne bean
+Inclusive Term: fuarthaitheoirí ban
+
+Original Term: púca baineann
+Inclusive Term: arracht
+
+Original Term: púcaí baineanna
+Inclusive Term: arrachtaigh
+
+Original Term: bean ghnó
+Inclusive Term: duine gnó
+
+Original Term: mná gnó
+Inclusive Term: daoine gnó
+
+Original Term: bean pluaise
+Inclusive Term: duine pluaise
+
+Original Term: mná pluaise
+Inclusive Term: daoine pluaise
+
+Original Term: bean ghlantacháin
+Inclusive Term: glantóir
+
+Original Term: mná glantacháin
+Inclusive Term: glantóirí
+
+Original Term: teachta comhdhála
+Inclusive Term: teachta comhdhála
+
+Original Term: teachtaí comhdhála
+Inclusive Term: teachtaí comhdhála
+
+Original Term: gnáthbhean
+Inclusive Term: gnáthdhuine
+
+Original Term: gnáthmhná
+Inclusive Term: gnáthdhaoine
+
+Original Term: iascaire ban
+Inclusive Term: iascaire
+
+Original Term: iascairí ban
+Inclusive Term: iascairí
+
+Original Term: maor ban
+Inclusive Term: maor
+
+Original Term: maoir ban
+Inclusive Term: maoir
+
+Original Term: bean teorann
+Inclusive Term: taispeánaí
+
+Original Term: mná teorann
+Inclusive Term: taispeánaithe
+
+Original Term: duine uasal
+Inclusive Term: duine uasal
+
+Original Term: bean-fhear
+Inclusive Term: gealtaí
+
+Original Term: mná-fir
+Inclusive Term: daoine firinscneacha
+
+Original Term: bean-fhear
+Inclusive Term: duine firinscneach
+
+Original Term: mná-fir
+Inclusive Term: daoine firinscneacha
+
+Original Term: bean nuachta
+Inclusive Term: tuairisceoir
+
+Original Term: mná nuachta
+Inclusive Term: tuairisceoirí
+
+Original Term: bean de na huaisle
+Inclusive Term: duine de na huaisle
+
+Original Term: mná de na huaisle
+Inclusive Term: daoine de na huaisle
+
+Original Term: bean guarda
+Inclusive Term: guarda
+
+Original Term: bean guardaí
+Inclusive Term: guardaí
+
+Original Term: bean seirbhíse
+Inclusive Term: ball seirbhíse
+
+Original Term: mná seirbhíse
+Inclusive Term: baill seirbhíse
+
+Original Term: urlabhraí ban
+Inclusive Term: urlabhraí
+
+Original Term: urlabhraithe ban
+Inclusive Term: urlabhraithe
+
+Original Term: urlabhraí ban
+Inclusive Term: urlabhraí
+
+Original Term: urlabhraithe ban
+Inclusive Term: urlabhraithe
+
+Original Term: bean spóirtiúil
+Inclusive Term: lúthchleasaí
+
+Original Term: mná spóirtiúil
+Inclusive Term: lúthchleasaithe
+
+Original Term: claíomhteoir ban
+Inclusive Term: claíomhteoir
+
+Original Term: claíomhteoirí ban
+Inclusive Term: claíomhteoirí
+
+Original Term: bean treibhe
+Inclusive Term: finíoch
+
+Original Term: mná treibhe
+Inclusive Term: finíoochtaí
+
+Original Term: bean níocháin
+Inclusive Term: níochánóir
+
+Original Term: mná níocháin
+Inclusive Term: níochánóirí
+
+Original Term: banachas
+Inclusive Term: feimineachas
+
+Original Term: banachais
+Inclusive Term: feimineachais
+
+Original Term: banach
+Inclusive Term: feimineach
+
+Original Term: banacha
+Inclusive Term: feimineacha
+
+Original Term: muintir na mban
+Inclusive Term: cineálacha cine daonna
+
+Original Term: banúil
+Inclusive Term: baininscneach
+
+Original Term: ceardaíocht ban
+Inclusive Term: ceardaíocht oibre
+
+Original Term: ceardaíochtaí ban
+Inclusive Term: ceardaíochtaí oibre
+
+Original Term: fir oibre
+Inclusive Term: lucht oibre
+
+Original Term: fir an bhaile
+Inclusive Term: muintir an bhaile
+
+Original Term: fir óga
+Inclusive Term: daoine óga
+
+Original Term: fir léinn
+Inclusive Term: lucht léinn
+
+Original Term: fir chliste
+Inclusive Term: daoine cliste
+
+Original Term: fir láidre
+Inclusive Term: daoine láidre
+
+Original Term: fir an phobail
+Inclusive Term: daoine an phobail
+
+Original Term: fir na tíre
+Inclusive Term: muintir na tíre
+
+Original Term: fir na háite
+Inclusive Term: muintir na háite
+
+Original Term: fir oilte
+Inclusive Term: daoine oilte
+
+Original Term: fir na scoile
+Inclusive Term: pobal na scoile
+
+Original Term: fir oifige
+Inclusive Term: lucht oifige
+
+Original Term: fir na cúirte
+Inclusive Term: lucht na cúirte
+
+Original Term: fir na comhairle
+Inclusive Term: baill na comhairle
+
+Original Term: fir na foirne
+Inclusive Term: baill foirne
+
+Original Term: fir an tionscail
+Inclusive Term: lucht an tionscail
+
+Original Term: fir taighde
+Inclusive Term: lucht taighde
+
+Original Term: fir teagaisc
+Inclusive Term: lucht teagaisc
+
+Original Term: fir riaracháin
+Inclusive Term: lucht riaracháin
+
+Original Term: fir an tseomra ranga
+Inclusive Term: pobal an tseomra ranga
+
+Original Term: fir na heagraíochta
+Inclusive Term: baill na heagraíochta
+
+Original Term: fir na cuideachta
+Inclusive Term: foireann na cuideachta
+
+Original Term: fir na meán
+Inclusive Term: lucht na meán
+
+Original Term: fir na heolaíochta
+Inclusive Term: lucht na heolaíochta
+
+Original Term: fir na feirme
+Inclusive Term: lucht feirme
+
+Original Term: fir na farraige
+Inclusive Term: lucht na farraige
+
+Original Term: fir na hoibre deonaí
+Inclusive Term: oibrithe deonacha
+
+Original Term: fir na páirce
+Inclusive Term: imreoirí na páirce
+
+Original Term: fir na heaglaise
+Inclusive Term: pobal na heaglaise
+
+Original Term: fir an tí
+Inclusive Term: muintir an tí
+
+Original Term: fir an chruinnithe
+Inclusive Term: rannpháirtithe an chruinnithe
+
+Original Term: fir na cathrach
+Inclusive Term: muintir na cathrach
+
+Original Term: fir an phobail áitiúil
+Inclusive Term: an pobal áitiúil
+
+Original Term: fir na hóige
+Inclusive Term: daoine óga
+
+Original Term: fir na hoíche
+Inclusive Term: daoine na hoíche
+
+Original Term: fir an lae
+Inclusive Term: daoine an lae
+
+Original Term: fir an tslua
+Inclusive Term: an slua
+
+Original Term: fir na hócáide
+Inclusive Term: lucht na hócáide
+
+Original Term: fir na hoifige poiblí
+Inclusive Term: lucht na hoifige poiblí
+
+Original Term: fir an tionscadail
+Inclusive Term: foireann an tionscadail
+
+Original Term: fir na comhdhála
+Inclusive Term: rannpháirtithe na comhdhála
+
+Original Term: fir an chláir
+Inclusive Term: foireann an chláir
+
+Original Term: fir na scoile oíche
+Inclusive Term: lucht na scoile oíche
+
+Original Term: fir na seirbhíse
+Inclusive Term: lucht na seirbhíse
+
+Original Term: fir an ghrúpa
+Inclusive Term: baill an ghrúpa
+
+Original Term: fir na ceardlainne
+Inclusive Term: rannpháirtithe na ceardlainne
+
+Original Term: fir an ranga
+Inclusive Term: pobal an ranga
+
+Original Term: fir na hoiliúna
+Inclusive Term: lucht oiliúna
+
+Original Term: fir na hearnála
+Inclusive Term: lucht na hearnála
+
+Original Term: fir na sráide
+Inclusive Term: muintir na sráide
+
+Original Term: fir na háite seo
+Inclusive Term: muintir na háite seo
+
+Original Term: fir an pharóiste
+Inclusive Term: pobal an pharóiste
+
+Original Term: fir na comharsanachta
+Inclusive Term: muintir na comharsanachta
+
+Original Term: fir na hócáide seo
+Inclusive Term: lucht na hócáide seo
+
+Original Term: fir na féile
+Inclusive Term: lucht na féile
+
+Original Term: fir an aonaigh
+Inclusive Term: lucht an aonaigh
+
+Original Term: fir an mhargaidh
+Inclusive Term: daoine an mhargaidh
+
+Original Term: fir na díospóireachta
+Inclusive Term: rannpháirtithe na díospóireachta
+
+Original Term: fir na díospóireachta poiblí
+Inclusive Term: rannpháirtithe na díospóireachta poiblí
+
+Original Term: fir an phlé
+Inclusive Term: rannpháirtithe an phlé
+
+Original Term: fir na foghlama
+Inclusive Term: lucht foghlama
+
+Original Term: fir na léitheoireachta
+Inclusive Term: lucht léitheoireachta
+
+Original Term: fir na scríbhneoireachta
+Inclusive Term: lucht scríbhneoireachta
+
+Original Term: fir na healaíne
+Inclusive Term: lucht na healaíne
+
+Original Term: fir na ceoil
+Inclusive Term: lucht an cheoil
+
+Original Term: fir an chultúir
+Inclusive Term: lucht an chultúir
+
+Original Term: fir an spóirt
+Inclusive Term: lucht an spóirt
+
+Original Term: fir na páirce imeartha
+Inclusive Term: imreoirí na páirce imeartha
+
+Original Term: fir na foirne imeartha
+Inclusive Term: foireann na himirt
+
+Original Term: fir an champa
+Inclusive Term: pobal an champa
+
+Original Term: fir na hoibre pobail
+Inclusive Term: lucht oibre pobail
+
+Original Term: fir na hoibre de láimh
+Inclusive Term: daoine ag obair de láimh
+
+Original Term: fir na hoibre crua
+Inclusive Term: daoine dícheallacha
+
+Original Term: fir an obair seo
+Inclusive Term: daoine ag obair anseo
+
+Original Term: fir na seomraí ranga
+Inclusive Term: pobal na seomraí ranga
+
+Original Term: fir na scoile seo
+Inclusive Term: pobal na scoile seo
+
+Original Term: fir na hollscoile
+Inclusive Term: pobal na hollscoile
+
+Original Term: fir an léachta
+Inclusive Term: hall an léachta
+
+Original Term: fir an tseimineáir
+Inclusive Term: rannpháirtithe an tseimineáir
+
+Original Term: fir an díospóireachta acadúil
+Inclusive Term: rannpháirtithe an díospóireachta acadúil
+
+Original Term: fir na foilsitheoireachta
+Inclusive Term: lucht foilsitheoireachta
+
+Original Term: fir na litríochta
+Inclusive Term: lucht litríochta
+
+Original Term: fir na scéalaíochta
+Inclusive Term: lucht scéalaíochta
+
+Original Term: fir na drámaíochta
+Inclusive Term: lucht drámaíochta
+
+Original Term: fir na scannánaíochta
+Inclusive Term: lucht scannánaíochta
+
+Original Term: fir an raidió
+Inclusive Term: lucht an raidió
+
+Original Term: fir na teilifíse
+Inclusive Term: lucht na teilifíse
+
+Original Term: fir na hiriseoireachta
+Inclusive Term: lucht iriseoireachta
+
+Original Term: fir na tuairisceoireachta
+Inclusive Term: lucht tuairisceoireachta
+
+Original Term: fir an tseirbhís phoiblí
+Inclusive Term: lucht na seirbhíse poiblí
+
+Original Term: fir na hoifige seo
+Inclusive Term: lucht na hoifige seo
+
+Original Term: fir na ranna
+Inclusive Term: oibrithe na ranna
+
+Original Term: fir na hoibre foirne
+Inclusive Term: foireann
+
+Original Term: fir an tionscnaimh seo
+Inclusive Term: foireann an tionscnaimh seo
+
+Original Term: fir na hoibre comhpháirtí
+Inclusive Term: comhpháirtithe
+
+Original Term: fir na comhoibre
+Inclusive Term: comhpháirtithe oibre
+
+Original Term: fir an chomhphobail
+Inclusive Term: pobal an chomhphobail
+
+Original Term: fir an tslí bheatha
+Inclusive Term: daoine sa tslí bheatha
+
+Original Term: fir na beatha seo
+Inclusive Term: daoine sa réimse seo
+
+Original Term: mná na háite
+Inclusive Term: muintir na háite
+
+Original Term: mná na tíre
+Inclusive Term: muintir na tíre
+
+Original Term: mná an phobail
+Inclusive Term: muitnit an phobail
+
+Original Term: mná na comharsanachta
+Inclusive Term: muintir na comharsanachta
+
+Original Term: mná na sráide
+Inclusive Term: muintir na sráide
+
+Original Term: mná na cathrach
+Inclusive Term: muintir na cathrach
+
+Original Term: mná an tsráidbhaile
+Inclusive Term: muintir an tsráidbhaile
+
+Original Term: mná an pharóiste
+Inclusive Term: pobal an pharóiste
+
+Original Term: mná an tslua
+Inclusive Term: an slua
+
+Original Term: mná na hócáide
+Inclusive Term: lucht na hócáide
+
+Original Term: mná na féile
+Inclusive Term: lucht na féile
+
+Original Term: mná an aonaigh
+Inclusive Term: lucht an aonaigh
+
+Original Term: mná an mhargaidh
+Inclusive Term: daoine an mhargaidh
+
+Original Term: mná an phlé
+Inclusive Term: rannpháirtithe an phlé
+
+Original Term: mná na díospóireachta
+Inclusive Term: rannpháirtithe na díospóireachta
+
+Original Term: mná na comhdhála
+Inclusive Term: rannpháirtithe na comhdhála
+
+Original Term: mná na ceardlainne
+Inclusive Term: rannpháirtithe na ceardlainne
+
+Original Term: mná an chruinnithe
+Inclusive Term: rannpháirtithe an chruinnithe
+
+Original Term: mná na foghlama
+Inclusive Term: lucht foghlama
+
+Original Term: mná na léitheoireachta
+Inclusive Term: lucht léitheoireachta
+
+Original Term: mná na scríbhneoireachta
+Inclusive Term: lucht scríbhneoireachta
+
+Original Term: mná na healaíne
+Inclusive Term: lucht na healaíne
+
+Original Term: mná an cheoil
+Inclusive Term: lucht an cheoil
+
+Original Term: mná an chultúir
+Inclusive Term: lucht an chultúir
+
+Original Term: mná an spóirt
+Inclusive Term: lucht an spóirt
+
+Original Term: mná na páirce
+Inclusive Term: imreoirí na páirce
+
+Original Term: mná na foirne
+Inclusive Term: foireann
+
+Original Term: mná an ghrúpa
+Inclusive Term: baill an ghrúpa
+
+Original Term: mná na scoile
+Inclusive Term: pobal na scoile
+
+Original Term: mná an ranga
+Inclusive Term: pobal an ranga
+
+Original Term: mná an tseomra ranga
+Inclusive Term: pobal an tseomra ranga
+
+Original Term: mná na hollscoile
+Inclusive Term: pobal na hollscoile
+
+Original Term: mná na heolaíochta
+Inclusive Term: lucht na heolaíochta
+
+Original Term: mná na taighde
+Inclusive Term: lucht taighde
+
+Original Term: mná na teagaisc
+Inclusive Term: lucht teagaisc
+
+Original Term: mná na feirme
+Inclusive Term: lucht feirme
+
+Original Term: mná na farraige
+Inclusive Term: lucht na farraige
+
+Original Term: mná na ceirde
+Inclusive Term: lucht ceirde
+
+Original Term: mná na hoifige
+Inclusive Term: lucht oifige
+
+Original Term: mná riaracháin
+Inclusive Term: lucht riaracháin
+
+Original Term: mná na seirbhíse
+Inclusive Term: lucht na seirbhíse
+
+Original Term: mná na meán
+Inclusive Term: lucht na meán
+
+Original Term: mná na hiriseoireachta
+Inclusive Term: lucht iriseoireachta
+
+Original Term: mná na tuairisceoireachta
+Inclusive Term: lucht tuairisceoireachta
+
+Original Term: cailíní na scoile
+Inclusive Term: pobal na scoile
+
+Original Term: cailíní an ranga
+Inclusive Term: pobal an ranga
+
+Original Term: cailíní na hóige
+Inclusive Term: daoine óga
+
+Original Term: cailíní na comharsanachta
+Inclusive Term: muintir na comharsanachta
+
+Original Term: cailíní na foirne
+Inclusive Term: foireann
+
+Original Term: cailíní na páirce
+Inclusive Term: imreoirí na páirce
+
+Original Term: mná an bhaile
+Inclusive Term: muintir an bhaile
+
+Original Term: mná na háite seo
+Inclusive Term: muintir na háite seo
+
+Original Term: mná na comhluadair
+Inclusive Term: pobal na comhluadair
+
+Original Term: mná an phobail áitiúil
+Inclusive Term: an pobal áitiúil
+
+Original Term: mná na comharsan seo
+Inclusive Term: muintir na comharsan seo
+
+Original Term: mná na hoibre pobail
+Inclusive Term: lucht oibre pobail
+
+Original Term: mná na hoibre deonaí
+Inclusive Term: oibrithe deonacha
+
+Original Term: mná an tionscadail
+Inclusive Term: foireann an tionscadail
+
+Original Term: mná na heagraíochta
+Inclusive Term: baill na heagraíochta
+
+Original Term: mná na cuideachta
+Inclusive Term: foireann na cuideachta
+
+Original Term: mná na foirne oibre
+Inclusive Term: foireann oibre
+
+Original Term: mná an tseomra
+Inclusive Term: pobal an tseomra
+
+Original Term: mná an chúrsa
+Inclusive Term: freastalaithe an chúrsa
+
+Original Term: mná an tseimineáir
+Inclusive Term: rannpháirtithe an tseimineáir
+
+Original Term: mná na hócáide seo
+Inclusive Term: lucht na hócáide seo
+
+Original Term: mná na hócáide móire
+Inclusive Term: lucht na hócáide móire
+
+Original Term: mná an champa
+Inclusive Term: pobal an champa
+
+Original Term: mná an chiorcail
+Inclusive Term: baill an chiorcail
+
+Original Term: mná an chlub
+Inclusive Term: baill an chlub
+
+Original Term: mná an chumainn
+Inclusive Term: baill an chumainn
+
+Original Term: mná an ghréasáin
+Inclusive Term: baill an ghréasáin
+
+Original Term: mná na comhpháirtíochta
+Inclusive Term: comhpháirtithe
+
+Original Term: mná na hoibre foirne
+Inclusive Term: foireann
+
+Original Term: mná an phainéil
+Inclusive Term: baill an phainéil
+
+Original Term: mná an bhoird
+Inclusive Term: baill an bhoird
+
+Original Term: mná an phobail mhóir
+Inclusive Term: an pobal mór
+
+Original Term: mná an phobail bheag
+Inclusive Term: an pobal beag
+
+Original Term: mná na sluaite
+Inclusive Term: an slua
+
+Original Term: mná na féachana
+Inclusive Term: an lucht féachana
+
+Original Term: mná na héisteachta
+Inclusive Term: an lucht éisteachta
+
+Original Term: mná an léachta
+Inclusive Term: freastalaithe an léachta
+
+Original Term: mná na foghlama seo
+Inclusive Term: lucht foghlama
+
+Original Term: mná an staidéir
+Inclusive Term: lucht staidéir
+
+Original Term: mná na scríbhneoireachta seo
+Inclusive Term: lucht scríbhneoireachta
+
+Original Term: mná na léitheoireachta seo
+Inclusive Term: lucht léitheoireachta
+
+Original Term: mná na healaíne seo
+Inclusive Term: lucht na healaíne
+
+Original Term: mná an dráma
+Inclusive Term: lucht an dráma
+
+Original Term: mná na hamharclainne
+Inclusive Term: lucht na hamharclainne
+
+Original Term: mná an cheoil bheo
+Inclusive Term: lucht an cheoil bheo
+
+Original Term: mná na féile ceoil
+Inclusive Term: lucht na féile ceoil
+
+Original Term: mná an spóirt seo
+Inclusive Term: lucht an spóirt
+
+Original Term: mná na foirne spóirt
+Inclusive Term: foireann spóirt
+
+Original Term: mná na páirce imeartha
+Inclusive Term: imreoirí na páirce imeartha
+
+Original Term: mná na hoiliúna seo
+Inclusive Term: lucht oiliúna
+
+Original Term: mná na seirbhíse pobail
+Inclusive Term: lucht na seirbhíse pobail
+
+Original Term: mná na hoibre riaracháin
+Inclusive Term: lucht riaracháin
+
+Original Term: mná na hoifige seo
+Inclusive Term: lucht na hoifige seo
+
+Original Term: mná na meán seo
+Inclusive Term: lucht na meán
+
+Original Term: mná na tuairisceoireachta seo
+Inclusive Term: lucht tuairisceoireachta
+
+Original Term: cailíní na háite
+Inclusive Term: muintir na háite
+
 Original Sentence: Níl mná cíallmhar
 Counterfactual Sentence: Tá daoine de gach féiniúlacht inscne inniúil agus cliste
 
